@@ -16,7 +16,7 @@ jobs:
       - name: Build graph's SPA
         uses: logseq/publish-spa@main
         with:
-          graph-directory: /
+          graph-directory: /.
           theme-mode: dark
           accent-color: cyan
 
