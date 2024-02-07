@@ -1,0 +1,5 @@
+- At its core, the Web View is a small application built with the Chromium Embedded Framework that uses the framework's off-screen rendering feature to generate a pixel buffer that represents a webpage's color output in a matrix of BGRA values.
+- For the source code, visit the [repo](https://github.com/MisterChief53/CEF-Docker-O3DE)
+- ## Running the Application
+	- The WebView utilizes a Docker container that makes use of `xvfb` to setup a virtual x server so that the CEF executes.
+	- To execute correctly, the application is ran by directly invoking the executable as an argument to `xvfb`, which makes it so that when debugging directly with an IDE like CLion, one has to manually attach to the executable's process.
