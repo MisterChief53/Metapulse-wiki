@@ -5,8 +5,16 @@ public:: true
 	- Interact with remote webpages inside the metaverse
 	- Use a shared account for multiple services
 - All of its dependencies (except CUDA) are open source
+- ## Architecture
+	- ![arquitecture-metapulse.jpg](../assets/arquitecture-metapulse_1707323665756_0.jpg)
+	- ### Web Server
+	- ### World Server
+		- The server that takes care of the World's multiplayer instance and the [[Web View]].
+	- ### Accounts Server
+	- ### Inference Server
+	- ### Clients
+	- ### P2P Chat Service
 - ## Technical Details
-	- {{embed [[Architecture]]}}
 	- ![Requirements and formal specification (In Spanish)](../assets/Documento_Final_1707322895598_0.pdf)
 		- If the above isn't rendered (due to a Logseq bug), the requirements and formal specification (in spanish) are located [here](https://github.com/MisterChief53/Metapulse-wiki/blob/master/assets/Documento_Final_1707322895598_0.pdf)
 - ## Repositories Quick Links
