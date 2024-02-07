@@ -1,7 +1,6 @@
 public:: true
 
-- ![arquitecture-metapulse.drawio.svg](../assets/arquitecture-metapulse.drawio_1707322255710_0.svg)
-  title:: Architecture
+- ![arquitecture-metapulse.drawio.png](../assets/arquitecture-metapulse.drawio_(1)_1707323472319_0.png)
 	- ### Web Server
 	- ### World Server
 	- ### Accounts Server
