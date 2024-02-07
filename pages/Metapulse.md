@@ -6,6 +6,9 @@ public:: true
 	- Use a shared account for multiple services
 - All of its dependencies (except CUDA) are open source
 - ## Technical Details
-	- [[Architecture]]
+	- {{embed [[Architecture]]}}
 	- ![Requirements and formal specification (In Spanish)](../assets/Documento_Final_1707322895598_0.pdf)
-		- If the above isn't rendered, the requirements (in spanish) are located [here](https://github.com/MisterChief53/Metapulse-wiki/blob/master/assets/Documento_Final_1707322895598_0.pdf)
+		- If the above isn't rendered (due to a Logseq bug), the requirements and formal specification (in spanish) are located [here](https://github.com/MisterChief53/Metapulse-wiki/blob/master/assets/Documento_Final_1707322895598_0.pdf)
+- ## Repositories Quick Links
+	- [WebView](https://github.com/MisterChief53/CEF-Docker-O3DE)
+	- [Wiki](https://github.com/MisterChief53/Metapulse-wiki)
