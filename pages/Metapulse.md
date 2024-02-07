@@ -5,5 +5,6 @@ public:: true
 	- Interact with remote webpages inside the metaverse
 	- Use a shared account for multiple services
 - All of its dependencies (except CUDA) are open source
-- [[Architecture]]
--
+- ## Technical Details
+	- [[Architecture]]
+	- ![Requirements and formal specification (In Spanish)](../assets/Documento_Final_1707322895598_0.pdf)
