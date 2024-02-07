@@ -1,6 +1,6 @@
 public:: true
 
-- ![arquitecture-metapulse.drawio.png](../assets/arquitecture-metapulse.drawio_(1)_1707323472319_0.png)
+- ![arquitecture-metapulse.jpg](../assets/arquitecture-metapulse_1707323665756_0.jpg)
 	- ### Web Server
 	- ### World Server
 	- ### Accounts Server
