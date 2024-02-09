@@ -5,6 +5,7 @@ public:: true
 	- Interact with remote webpages inside the metaverse
 	- Use a shared account for multiple services
 - All of its dependencies (except CUDA) are open source
+- [[Development Environment Setup]]
 - ## Architecture
 	- ![arquitecture-metapulse.jpg](../assets/arquitecture-metapulse_1707323665756_0.jpg)
 	- ### Web Server
