@@ -11,4 +11,4 @@ public:: true
 - ## Instructions
 	- Download the current CEF binary here: https://drive.proton.me/urls/36ZV7R6SEW#cj64uSQ4UvFq
 	- Extract the contents to the "WebView" folder **except** for `tests/cefsimple`, since that is the WebView code.
-	- [[draws/2024-02-10-14-18-17.excalidraw]]
+	- ![image.png](../assets/image_1707596548506_0.png)
