@@ -1,3 +1,5 @@
+public:: true
+
 - The environment is mainly configured through the use of a batch file that clones the relevant repos, sets up the Docker container, and gives you access to this wiki as well.
 - ## Requirements
 	- Windows 10+
