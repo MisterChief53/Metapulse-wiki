@@ -21,4 +21,3 @@ public:: true
 - ## Repositories Quick Links
 	- [WebView](https://github.com/MisterChief53/CEF-Docker-O3DE)
 	- [Wiki](https://github.com/MisterChief53/Metapulse-wiki)
-- ## Añadi este bullet point c:
