@@ -1,0 +1,9 @@
+- https://spring.io/projects/spring-boot#overview
+- This tutorial might help with getting started with nextjs + spring boot
+	- {{video https://www.youtube.com/watch?v=E8gaRFMXS9Y}}
+- ## Dependencies
+	- Since we are building a docker container that will use spring and deal with PostgreSQL, we will probably use the following Spring Dependencies:
+		- Spring Web
+		- Spring Data JPA
+		- Spring Security
+		- PostgreSQL Driver
