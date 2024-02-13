@@ -1,1 +1,9 @@
 - Interesting tutorial: https://www.youtube.com/watch?v=ABbww4CFQSo
+- ## Container Setup Notes
+	- Can we create a project as an empty folder with just a Dockerfile that has the environment defined, and then setup the nextjs project inside that dockerfile using the shell?
+		- if we can do that, that means that we can run arbitrary commands inside the container from vscode, as if it was local development!
+- ## Using the Dev Container
+	- Install the `Dev Containers` extension for VSCode
+	- Press F1 and choose `Open Folder in Container`
+	- Choose the Website folder.
+	- Now you have access to a terminal inside the docker folder!

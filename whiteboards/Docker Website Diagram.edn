@@ -1,0 +1,2004 @@
+{:blocks (
+{:block/created-at 1707786028088
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[91 0 0.5] [92 0 0.5] [90 0 0.5] [88 0 0.5] [80 3 0.5] [75 4 0.5] [70 4 0.5] [65 4 0.5] [60 5 0.5] [55 5 0.5] [49 6 0.5] [45 6 0.5] [40 6 0.5] [36 6 0.5] [32 6 0.5] [29 6 0.5] [26 6 0.5] [23 6 0.5] [22 6 0.5] [19 7 0.5] [17 7 0.5] [15 8 0.5] [14 9 0.5] [13 9 0.5] [12 10 0.5] [13 10 0.5] [13 11 0.5] [14 13 0.5] [15 14 0.5] [16 16 0.5] [17 18 0.5] [17 21 0.5] [18 27 0.5] [18 32 0.5] [18 39 0.5] [17 47 0.5] [17 68 0.5] [17 82 0.5] [18 98 0.5] [18 116 0.5] [18 132 0.5] [18 145 0.5] [18 157 0.5] [16 166 0.5] [15 172 0.5] [13 178 0.5] [11 183 0.5] [9 189 0.5] [8 195 0.5] [6 201 0.5] [5 207 0.5] [4 213 0.5] [2 216 0.5] [1 219 0.5] [1 222 0.5] [0 223 0.5] [0 224 0.5] [1 224 0.5] [1 223 0.5] [2 223 0.5] [3 223 0.5] [5 222 0.5] [7 221 0.5] [10 220 0.5] [14 219 0.5] [20 218 0.5] [27 217 0.5] [35 216 0.5] [43 216 0.5] [49 217 0.5] [55 219 0.5] [61 221 0.5] [67 224 0.5] [72 226 0.5] [77 227 0.5] [81 227 0.5] [85 227 0.5] [90 226 0.5] [94 226 0.5] [96 225 0.5] [100 224 0.5] [101 223 0.5] [102 223 0.5] [102 222 0.5] [102 221 0.5] [103 219 0.5] [104 217 0.5] [105 214 0.5] [107 207 0.5] [109 202 0.5] [110 196 0.5] [112 188 0.5] [112 178 0.5] [113 167 0.5] [113 157 0.5] [112 146 0.5] [111 135 0.5] [109 124 0.5] [107 110 0.5] [103 83 0.5] [101 72 0.5] [99 62 0.5] [97 54 0.5] [96 47 0.5] [95 42 0.5] [95 40 0.5] [95 39 0.5] [96 39 0.5] [96 38 0.5] [96 39 0.5] [96 38 0.5] [95 37 0.5] [94 36 0.5] [93 34 0.5] [92 32 0.5] [91 31 0.5] [91 30 0.5] [90 29 0.5] [89 29 0.5] [89 28 0.5] [88 28 0.5] [87 27 0.5] [86 26 0.5] [86 24 0.5] [85 24 0.5] [84 22 0.5] [82 22 0.5] [81 22 0.5] [79 21 0.5] [78 22 0.5] [78 21 0.5] [79 21 0.5] [79 20 0.5] [79 21 0.5] [79 20 0.5] [79 19 0.5] [80 17 0.5] [80 14 0.5] [80 13 0.5] [80 11 0.5] [80 10 0.5] [80 9 0.5] [79 9 0.5] [79 8 0.5] [77 8 0.5] [76 8 0.5] [74 8 0.5] [72 9 0.5] [70 10 0.5] [68 10 0.5] [66 11 0.5] [65 12 0.5] [64 12 0.5] [66 11 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "43683d60-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [204.5 247.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786022097
+:isComplete true}}
+:block/updated-at 1707786028088} 
+{:block/created-at 1707786029292
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[7 18 0.5] [7 17 0.5] [7 16 0.5] [7 17 0.5] [8 18 0.5] [8 19 0.5] [9 19 0.5] [8 19 0.5] [9 19 0.5] [8 19 0.5] [9 19 0.5] [9 20 0.5] [9 21 0.5] [9 22 0.5] [9 23 0.5] [9 25 0.5] [9 28 0.5] [8 32 0.5] [8 36 0.5] [8 40 0.5] [7 46 0.5] [6 53 0.5] [5 62 0.5] [4 72 0.5] [2 84 0.5] [1 97 0.5] [0 112 0.5] [0 126 0.5] [0 137 0.5] [0 145 0.5] [0 152 0.5] [0 156 0.5] [1 159 0.5] [1 161 0.5] [1 160 0.5] [4 159 0.5] [7 157 0.5] [11 155 0.5] [17 154 0.5] [24 153 0.5] [34 153 0.5] [44 153 0.5] [56 153 0.5] [67 155 0.5] [79 157 0.5] [90 160 0.5] [99 163 0.5] [108 166 0.5] [117 167 0.5] [127 168 0.5] [136 169 0.5] [145 170 0.5] [154 169 0.5] [161 169 0.5] [167 169 0.5] [172 168 0.5] [175 168 0.5] [177 166 0.5] [180 164 0.5] [181 160 0.5] [183 156 0.5] [186 141 0.5] [188 133 0.5] [190 123 0.5] [192 112 0.5] [195 99 0.5] [198 87 0.5] [200 74 0.5] [201 61 0.5] [202 46 0.5] [203 33 0.5] [202 22 0.5] [201 14 0.5] [201 8 0.5] [200 4 0.5] [200 2 0.5] [200 1 0.5] [199 1 0.5] [198 1 0.5] [196 0 0.5] [193 0 0.5] [189 1 0.5] [183 1 0.5] [176 2 0.5] [168 3 0.5] [158 4 0.5] [146 3 0.5] [134 2 0.5] [122 2 0.5] [111 1 0.5] [101 1 0.5] [83 2 0.5] [75 3 0.5] [66 4 0.5] [59 5 0.5] [54 6 0.5] [47 7 0.5] [41 6 0.5] [35 6 0.5] [31 5 0.5] [27 5 0.5] [25 5 0.5] [23 6 0.5] [21 9 0.5] [19 14 0.5] [18 18 0.5] [23 14 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "46382640-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [447.5 130.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786026768
+:isComplete true}}
+:block/updated-at 1707786029292} 
+{:block/created-at 1707786032202
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[3 9 0.5] [3 8 0.5] [3 7 0.5] [4 7 0.5] [3 7 0.5] [4 7 0.5] [4 9 0.5] [5 12 0.5] [5 17 0.5] [6 22 0.5] [7 28 0.5] [8 35 0.5] [9 41 0.5] [11 46 0.5] [11 50 0.5] [12 51 0.5] [11 50 0.5] [10 47 0.5] [9 42 0.5] [8 37 0.5] [7 31 0.5] [7 26 0.5] [7 21 0.5] [9 16 0.5] [10 11 0.5] [12 7 0.5] [14 4 0.5] [17 2 0.5] [20 0 0.5] [23 0 0.5] [26 0 0.5] [29 0 0.5] [31 2 0.5] [34 4 0.5] [37 7 0.5] [39 12 0.5] [41 16 0.5] [42 20 0.5] [42 24 0.5] [42 27 0.5] [41 30 0.5] [40 32 0.5] [38 35 0.5] [36 38 0.5] [34 40 0.5] [31 42 0.5] [28 43 0.5] [25 44 0.5] [21 44 0.5] [17 44 0.5] [13 44 0.5] [8 45 0.5] [4 45 0.5] [0 46 0.5] [8 45 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "47650d80-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [515.5 178.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786028688
+:isComplete true}}
+:block/updated-at 1707786032202} 
+{:block/created-at 1707786033358
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 109 0.5] [1 109 0.5] [1 110 0.5] [2 110 0.5] [3 111 0.5] [3 112 0.5] [4 112 0.5] [5 113 0.5] [7 114 0.5] [8 115 0.5] [10 115 0.5] [12 116 0.5] [15 116 0.5] [17 117 0.5] [21 117 0.5] [24 117 0.5] [27 118 0.5] [30 119 0.5] [33 119 0.5] [36 120 0.5] [39 121 0.5] [41 122 0.5] [44 122 0.5] [46 123 0.5] [48 122 0.5] [51 122 0.5] [53 122 0.5] [56 122 0.5] [59 121 0.5] [62 120 0.5] [65 120 0.5] [67 120 0.5] [69 120 0.5] [71 120 0.5] [74 120 0.5] [79 119 0.5] [82 118 0.5] [85 118 0.5] [93 117 0.5] [95 116 0.5] [98 116 0.5] [101 116 0.5] [104 116 0.5] [107 115 0.5] [110 115 0.5] [113 115 0.5] [116 115 0.5] [119 115 0.5] [122 115 0.5] [125 114 0.5] [129 113 0.5] [133 112 0.5] [136 111 0.5] [139 110 0.5] [141 109 0.5] [143 108 0.5] [144 108 0.5] [145 107 0.5] [146 106 0.5] [147 105 0.5] [148 104 0.5] [150 104 0.5] [151 102 0.5] [152 102 0.5] [153 101 0.5] [155 99 0.5] [156 98 0.5] [158 97 0.5] [160 96 0.5] [161 96 0.5] [162 95 0.5] [163 94 0.5] [165 94 0.5] [166 93 0.5] [167 92 0.5] [168 91 0.5] [171 88 0.5] [172 87 0.5] [173 86 0.5] [174 84 0.5] [177 82 0.5] [180 79 0.5] [181 77 0.5] [184 75 0.5] [187 73 0.5] [188 71 0.5] [190 70 0.5] [194 65 0.5] [196 64 0.5] [197 61 0.5] [200 59 0.5] [202 57 0.5] [204 53 0.5] [208 50 0.5] [211 46 0.5] [214 43 0.5] [217 40 0.5] [220 37 0.5] [226 32 0.5] [229 30 0.5] [231 27 0.5] [234 25 0.5] [236 23 0.5] [238 21 0.5] [240 18 0.5] [242 16 0.5] [243 15 0.5] [244 13 0.5] [246 11 0.5] [247 9 0.5] [248 7 0.5] [249 6 0.5] [250 5 0.5] [251 3 0.5] [252 2 0.5] [252 1 0.5] [250 0 0.5] [249 0 0.5] [248 1 0.5] [245 2 0.5] [242 4 0.5] [238 5 0.5] [235 7 0.5] [232 7 0.5] [229 8 0.5] [227 9 0.5] [226 9 0.5] [226 8 0.5] [226 9 0.5] [227 7 0.5] [230 6 0.5] [233 5 0.5] [236 5 0.5] [239 4 0.5] [241 2 0.5] [243 1 0.5] [245 1 0.5] [246 0 0.5] [247 0 0.5] [248 0 0.5] [249 0 0.5] [250 0 0.5] [250 1 0.5] [251 1 0.5] [252 3 0.5] [252 5 0.5] [252 8 0.5] [252 11 0.5] [252 13 0.5] [251 16 0.5] [251 18 0.5] [251 19 0.5] [250 20 0.5] [249 22 0.5] [250 19 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "489d6670-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [289.5 282.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786030835
+:isComplete true}}
+:block/updated-at 1707786033358} 
+{:block/created-at 1707786034383
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[10 1 0.5] [10 0 0.5] [9 0 0.5] [10 0 0.5] [9 0 0.5] [7 1 0.5] [6 1 0.5] [5 1 0.5] [4 2 0.5] [4 3 0.5] [3 4 0.5] [4 7 0.5] [5 9 0.5] [7 12 0.5] [10 14 0.5] [12 16 0.5] [13 17 0.5] [15 19 0.5] [15 20 0.5] [16 20 0.5] [14 21 0.5] [12 21 0.5] [9 21 0.5] [7 21 0.5] [5 21 0.5] [3 21 0.5] [1 21 0.5] [0 21 0.5] [0 20 0.5] [2 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "49b7d720-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [426.5 412.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786032561
+:isComplete true}}
+:block/updated-at 1707786034383} 
+{:block/created-at 1707786034383
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[12 0 0.5] [10 1 0.5] [8 2 0.5] [6 3 0.5] [5 5 0.5] [3 6 0.5] [2 8 0.5] [1 9 0.5] [1 11 0.5] [2 14 0.5] [5 15 0.5] [7 16 0.5] [9 17 0.5] [10 18 0.5] [11 18 0.5] [11 19 0.5] [11 18 0.5] [9 19 0.5] [8 19 0.5] [7 18 0.5] [5 18 0.5] [4 17 0.5] [2 16 0.5] [0 15 0.5] [3 16 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "49f35980-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [449.5 406.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786032946
+:isComplete true}}
+:block/updated-at 1707786034383} 
+{:block/created-at 1707786044172
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[3 0 0.5] [3 1 0.5] [3 2 0.5] [3 4 0.5] [2 6 0.5] [1 10 0.5] [1 14 0.5] [0 19 0.5] [0 23 0.5] [0 27 0.5] [0 31 0.5] [0 32 0.5] [0 33 0.5] [0 34 0.5] [0 33 0.5] [1 31 0.5] [2 29 0.5] [3 26 0.5] [5 23 0.5] [6 22 0.5] [8 20 0.5] [11 19 0.5] [13 19 0.5] [15 19 0.5] [17 19 0.5] [18 20 0.5] [19 21 0.5] [20 22 0.5] [21 25 0.5] [21 28 0.5] [21 30 0.5] [21 34 0.5] [20 35 0.5] [20 33 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4a83b2a0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [473.5 389.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786033901
+:isComplete true}}
+:block/updated-at 1707786044172} 
+{:block/created-at 1707786046649
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [0 2 0.5] [1 4 0.5] [1 6 0.5] [1 8 0.5] [1 11 0.5] [2 14 0.5] [2 16 0.5] [2 17 0.5] [2 18 0.5] [3 17 0.5] [4 15 0.5] [5 12 0.5] [7 7 0.5] [7 6 0.5] [7 5 0.5] [7 6 0.5] [8 5 0.5] [9 6 0.5] [9 7 0.5] [10 8 0.5] [10 9 0.5] [11 9 0.5] [10 9 0.5] [11 8 0.5] [12 7 0.5] [12 5 0.5] [14 4 0.5] [15 2 0.5] [16 1 0.5] [17 1 0.5] [18 1 0.5] [19 1 0.5] [20 2 0.5] [21 2 0.5] [22 4 0.5] [23 5 0.5] [24 7 0.5] [25 10 0.5] [26 11 0.5] [26 12 0.5] [26 14 0.5] [25 16 0.5] [24 17 0.5] [24 14 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "504b30a0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [143.5 146.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786043609
+:isComplete true}}
+:block/updated-at 1707786046649} 
+{:block/created-at 1707786046650
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [0 0 0.5] [0 1 0.5] [0 0 0.5] [0 1 0.5] [1 1 0.5] [1 2 0.5] [1 4 0.5] [1 6 0.5] [1 9 0.5] [2 12 0.5] [2 14 0.5] [3 15 0.5] [3 16 0.5] [3 15 0.5] [4 12 0.5] [4 10 0.5] [5 8 0.5] [5 5 0.5] [6 4 0.5] [6 3 0.5] [7 2 0.5] [7 1 0.5] [8 1 0.5] [9 2 0.5] [10 2 0.5] [12 4 0.5] [13 5 0.5] [14 7 0.5] [15 9 0.5] [16 10 0.5] [17 12 0.5] [17 14 0.5] [17 15 0.5] [17 16 0.5] [16 14 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4fb9ed20-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [99.5 155.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786042648
+:isComplete true}}
+:block/updated-at 1707786046650} 
+{:block/created-at 1707786046650
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[3 5 0.5] [2 5 0.5] [1 7 0.5] [0 8 0.5] [0 10 0.5] [0 12 0.5] [1 14 0.5] [3 15 0.5] [5 16 0.5] [8 16 0.5] [10 16 0.5] [12 15 0.5] [13 13 0.5] [13 11 0.5] [14 8 0.5] [14 6 0.5] [13 5 0.5] [13 3 0.5] [12 2 0.5] [11 1 0.5] [10 0 0.5] [9 0 0.5] [8 0 0.5] [6 2 0.5] [5 3 0.5] [4 6 0.5] [3 9 0.5] [3 12 0.5] [2 16 0.5] [2 21 0.5] [2 25 0.5] [2 29 0.5] [1 32 0.5] [1 34 0.5] [1 35 0.5] [3 33 0.5] [2 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4ffebe50-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [125.5 151.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786043099
+:isComplete true}}
+:block/updated-at 1707786046650} 
+{:block/created-at 1707786048007
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[14 0 0.5] [14 1 0.5] [13 3 0.5] [11 5 0.5] [10 7 0.5] [9 9 0.5] [9 11 0.5] [9 12 0.5] [10 14 0.5] [12 14 0.5] [14 15 0.5] [16 15 0.5] [17 16 0.5] [19 16 0.5] [19 17 0.5] [18 19 0.5] [17 20 0.5] [16 23 0.5] [13 25 0.5] [11 27 0.5] [9 29 0.5] [6 30 0.5] [4 31 0.5] [2 31 0.5] [0 31 0.5] [4 29 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "51df3e20-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [168.5 196.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786046237
+:isComplete true}}
+:block/updated-at 1707786048007} 
+{:block/created-at 1707786048007
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[3 0 0.5] [3 1 0.5] [2 2 0.5] [1 4 0.5] [0 7 0.5] [0 9 0.5] [1 11 0.5] [2 12 0.5] [4 13 0.5] [5 14 0.5] [6 13 0.5] [8 12 0.5] [9 10 0.5] [10 9 0.5] [10 8 0.5] [10 6 0.5] [10 4 0.5] [9 3 0.5] [8 2 0.5] [7 2 0.5] [5 2 0.5] [4 2 0.5] [5 3 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "512033e0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [125.5 206.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786044982
+:isComplete true}}
+:block/updated-at 1707786048007} 
+{:block/created-at 1707786048007
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [1 1 0.5] [1 2 0.5] [2 4 0.5] [2 6 0.5] [2 10 0.5] [2 11 0.5] [2 12 0.5] [2 11 0.5] [3 11 0.5] [3 9 0.5] [4 7 0.5] [5 5 0.5] [7 3 0.5] [8 2 0.5] [9 1 0.5] [10 1 0.5] [11 1 0.5] [12 2 0.5] [13 3 0.5] [14 5 0.5] [14 8 0.5] [15 11 0.5] [16 13 0.5] [16 14 0.5] [17 15 0.5] [17 14 0.5] [17 13 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "50e8f740-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [100.5 207.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786044626
+:isComplete true}}
+:block/updated-at 1707786048007} 
+{:block/created-at 1707786048007
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[6 10 0.5] [6 9 0.5] [5 10 0.5] [4 10 0.5] [3 12 0.5] [2 13 0.5] [1 15 0.5] [0 17 0.5] [0 19 0.5] [1 20 0.5] [2 21 0.5] [3 20 0.5] [6 17 0.5] [8 14 0.5] [8 11 0.5] [9 8 0.5] [9 6 0.5] [10 5 0.5] [10 3 0.5] [9 2 0.5] [9 1 0.5] [9 0 0.5] [9 1 0.5] [9 2 0.5] [8 5 0.5] [8 7 0.5] [8 10 0.5] [8 12 0.5] [8 13 0.5] [9 14 0.5] [10 15 0.5] [12 16 0.5] [13 16 0.5] [15 15 0.5] [17 15 0.5] [18 14 0.5] [19 13 0.5] [20 12 0.5] [20 11 0.5] [20 10 0.5] [20 9 0.5] [20 8 0.5] [19 8 0.5] [18 8 0.5] [18 9 0.5] [17 11 0.5] [16 13 0.5] [17 14 0.5] [17 16 0.5] [18 18 0.5] [19 19 0.5] [20 19 0.5] [22 19 0.5] [25 18 0.5] [27 16 0.5] [23 16 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "51515600-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [138.5 195.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786045337
+:isComplete true}}
+:block/updated-at 1707786048007} 
+{:block/created-at 1707786048007
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 2 0.5] [0 1 0.5] [0 0 0.5] [0 2 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "51c99340-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [168.5 188.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786046073
+:isComplete true}}
+:block/updated-at 1707786048007} 
+{:block/created-at 1707786048007
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[5 0 0.5] [5 2 0.5] [7 7 0.5] [7 10 0.5] [8 14 0.5] [8 16 0.5] [8 18 0.5] [8 19 0.5] [8 20 0.5] [7 20 0.5] [7 21 0.5] [6 21 0.5] [5 20 0.5] [2 17 0.5] [1 14 0.5] [0 11 0.5] [2 14 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "51a98820-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [164.5 200.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786045876
+:isComplete true}}
+:block/updated-at 1707786048007} 
+{:block/created-at 1707786049438
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 16
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 2 0.5] [1 2 0.5] [2 2 0.5] [3 1 0.5] [5 1 0.5] [6 1 0.5] [8 0 0.5] [11 0 0.5] [13 1 0.5] [15 1 0.5] [17 2 0.5] [19 4 0.5] [21 7 0.5] [22 11 0.5] [24 15 0.5] [26 20 0.5] [28 25 0.5] [31 30 0.5] [33 35 0.5] [35 40 0.5] [38 45 0.5] [39 50 0.5] [40 55 0.5] [41 58 0.5] [41 60 0.5] [41 61 0.5] [40 61 0.5] [40 60 0.5] [39 57 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "52afad80-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [198.5 165.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786047606
+:isComplete true}}
+:block/updated-at 1707786049438} 
+{:block/created-at 1707786049975
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 17
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [1 0 0.5] [1 1 0.5] [2 1 0.5] [3 1 0.5] [4 1 0.5] [4 2 0.5] [5 2 0.5] [6 3 0.5] [7 3 0.5] [8 4 0.5] [10 5 0.5] [11 7 0.5] [12 9 0.5] [14 12 0.5] [16 16 0.5] [18 19 0.5] [19 22 0.5] [21 25 0.5] [21 27 0.5] [22 28 0.5] [22 29 0.5] [22 30 0.5] [23 31 0.5] [23 30 0.5] [23 29 0.5] [22 27 0.5] [22 26 0.5] [21 24 0.5] [20 22 0.5] [19 21 0.5] [18 20 0.5] [16 18 0.5] [15 18 0.5] [14 17 0.5] [12 17 0.5] [11 17 0.5] [10 17 0.5] [9 16 0.5] [8 16 0.5] [9 16 0.5] [10 16 0.5] [11 16 0.5] [11 17 0.5] [12 17 0.5] [12 18 0.5] [13 18 0.5] [14 19 0.5] [14 20 0.5] [14 21 0.5] [15 22 0.5] [16 22 0.5] [17 23 0.5] [18 23 0.5] [19 24 0.5] [20 24 0.5] [21 25 0.5] [22 26 0.5] [23 26 0.5] [24 27 0.5] [24 28 0.5] [25 29 0.5] [25 30 0.5] [25 31 0.5] [25 32 0.5] [24 32 0.5] [24 31 0.5] [22 30 0.5] [20 29 0.5] [19 28 0.5] [17 27 0.5] [16 26 0.5] [14 25 0.5] [13 24 0.5] [12 24 0.5] [12 23 0.5] [11 23 0.5] [12 23 0.5] [14 24 0.5] [15 24 0.5] [17 25 0.5] [19 26 0.5] [20 27 0.5] [22 28 0.5] [24 30 0.5] [25 31 0.5] [26 32 0.5] [27 32 0.5] [28 32 0.5] [29 32 0.5] [30 30 0.5] [31 29 0.5] [33 27 0.5] [34 25 0.5] [35 23 0.5] [36 21 0.5] [37 19 0.5] [37 18 0.5] [38 16 0.5] [38 15 0.5] [38 14 0.5] [37 14 0.5] [37 15 0.5] [36 15 0.5] [36 16 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "52ffa240-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [192.5 202.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786048207
+:isComplete true}}
+:block/updated-at 1707786049975} 
+{:block/created-at 1707786053434
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 18
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [1 1 0.5] [1 2 0.5] [2 3 0.5] [3 4 0.5] [4 5 0.5] [6 7 0.5] [8 9 0.5] [10 11 0.5] [13 15 0.5] [15 18 0.5] [16 20 0.5] [17 22 0.5] [18 23 0.5] [18 24 0.5] [18 25 0.5] [19 25 0.5] [18 25 0.5] [19 25 0.5] [18 24 0.5] [18 23 0.5] [19 22 0.5] [19 20 0.5] [20 17 0.5] [21 14 0.5] [22 12 0.5] [23 10 0.5] [23 9 0.5] [24 8 0.5] [26 6 0.5] [26 5 0.5] [26 4 0.5] [25 4 0.5] [25 5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "53cc8f30-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [221.5 206.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786049479
+:isComplete true}}
+:block/updated-at 1707786053434} 
+{:block/created-at 1707786054116
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [0 0 0.5] [0 1 0.5] [0 0 0.5] [0 1 0.5] [0 3 0.5] [1 5 0.5] [1 9 0.5] [1 12 0.5] [1 15 0.5] [1 17 0.5] [2 17 0.5] [1 16 0.5] [2 14 0.5] [2 11 0.5] [3 9 0.5] [3 7 0.5] [4 6 0.5] [5 5 0.5] [6 4 0.5] [7 4 0.5] [8 4 0.5] [10 4 0.5] [11 5 0.5] [13 8 0.5] [14 9 0.5] [15 10 0.5] [16 11 0.5] [16 12 0.5] [16 13 0.5] [15 12 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5554dce0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [576.5 167.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786052047
+:isComplete true}}
+:block/updated-at 1707786054116} 
+{:block/created-at 1707786054116
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 21
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[7 16 0.5] [6 16 0.5] [6 17 0.5] [5 17 0.5] [3 18 0.5] [2 20 0.5] [1 21 0.5] [0 24 0.5] [0 25 0.5] [1 26 0.5] [4 26 0.5] [6 25 0.5] [8 23 0.5] [10 20 0.5] [12 17 0.5] [13 14 0.5] [13 10 0.5] [14 4 0.5] [13 2 0.5] [13 1 0.5] [12 0 0.5] [11 0 0.5] [11 2 0.5] [11 6 0.5] [11 10 0.5] [11 13 0.5] [12 15 0.5] [13 17 0.5] [15 17 0.5] [16 17 0.5] [18 17 0.5] [19 16 0.5] [20 15 0.5] [21 14 0.5] [21 13 0.5] [21 12 0.5] [21 11 0.5] [21 10 0.5] [20 10 0.5] [19 10 0.5] [18 11 0.5] [17 14 0.5] [15 17 0.5] [14 21 0.5] [14 24 0.5] [14 26 0.5] [15 28 0.5] [16 29 0.5] [17 29 0.5] [19 29 0.5] [21 29 0.5] [23 27 0.5] [24 25 0.5] [25 23 0.5] [26 20 0.5] [25 18 0.5] [25 17 0.5] [24 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "55c61540-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [607.5 149.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786052815
+:isComplete true}}
+:block/updated-at 1707786054116} 
+{:block/created-at 1707786054117
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 20
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[5 2 0.5] [4 3 0.5] [3 4 0.5] [1 6 0.5] [1 9 0.5] [0 11 0.5] [0 13 0.5] [1 15 0.5] [2 15 0.5] [3 16 0.5] [5 15 0.5] [7 14 0.5] [9 11 0.5] [10 9 0.5] [11 7 0.5] [11 5 0.5] [10 4 0.5] [10 3 0.5] [9 2 0.5] [7 1 0.5] [6 1 0.5] [5 0 0.5] [5 1 0.5] [6 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5592f750-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [593.5 165.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786052446
+:isComplete true}}
+:block/updated-at 1707786054117} 
+{:block/created-at 1707786054709
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 22
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 4 0.5] [1 5 0.5] [1 6 0.5] [1 8 0.5] [1 10 0.5] [1 12 0.5] [1 13 0.5] [1 14 0.5] [2 13 0.5] [3 11 0.5] [3 9 0.5] [4 7 0.5] [6 5 0.5] [7 3 0.5] [9 2 0.5] [10 0 0.5] [11 0 0.5] [12 0 0.5] [13 0 0.5] [14 0 0.5] [15 1 0.5] [16 2 0.5] [17 3 0.5] [17 5 0.5] [18 7 0.5] [18 9 0.5] [17 11 0.5] [16 9 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "564f9090-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [572.5 204.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786053686
+:isComplete true}}
+:block/updated-at 1707786054709} 
+{:block/created-at 1707786055270
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 23
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[7 9 0.5] [6 10 0.5] [6 11 0.5] [6 12 0.5] [6 13 0.5] [6 14 0.5] [8 15 0.5] [9 15 0.5] [12 14 0.5] [15 12 0.5] [17 9 0.5] [18 7 0.5] [18 4 0.5] [18 1 0.5] [17 0 0.5] [16 0 0.5] [15 0 0.5] [13 0 0.5] [12 1 0.5] [10 2 0.5] [9 4 0.5] [8 5 0.5] [7 7 0.5] [6 8 0.5] [5 11 0.5] [5 14 0.5] [4 18 0.5] [4 21 0.5] [3 24 0.5] [2 28 0.5] [1 30 0.5] [1 32 0.5] [0 33 0.5] [0 34 0.5] [1 33 0.5] [1 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "56a13300-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [589.5 195.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786054229
+:isComplete true}}
+:block/updated-at 1707786055270} 
+{:block/created-at 1707786062031
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 24
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [0 2 0.5] [1 3 0.5] [1 5 0.5] [0 7 0.5] [0 9 0.5] [0 11 0.5] [0 12 0.5] [0 11 0.5] [1 10 0.5] [3 8 0.5] [5 6 0.5] [7 5 0.5] [9 4 0.5] [10 4 0.5] [11 4 0.5] [12 4 0.5] [13 6 0.5] [13 7 0.5] [13 6 0.5] [13 5 0.5] [14 4 0.5] [14 2 0.5] [15 1 0.5] [16 1 0.5] [17 1 0.5] [18 1 0.5] [18 2 0.5] [19 3 0.5] [19 4 0.5] [20 4 0.5] [21 5 0.5] [22 6 0.5] [23 7 0.5] [23 8 0.5] [23 11 0.5] [21 10 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "56f19cf0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [616.5 193.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786054758
+:isComplete true}}
+:block/updated-at 1707786062031} 
+{:block/created-at 1707786063133
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 28
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 2 0.5] [4 2 0.5] [8 2 0.5] [12 1 0.5] [16 1 0.5] [19 0 0.5] [21 0 0.5] [22 0 0.5] [24 0 0.5] [24 1 0.5] [22 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5afa53f0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [246.5 398.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786061499
+:isComplete true}}
+:block/updated-at 1707786063133} 
+{:block/created-at 1707786063133
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 26
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 1 0.5] [2 0 0.5] [4 0 0.5] [7 1 0.5] [10 1 0.5] [12 2 0.5] [15 3 0.5] [17 3 0.5] [19 2 0.5] [21 1 0.5] [23 0 0.5] [19 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5aab4990-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [238.5 330.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786060982
+:isComplete true}}
+:block/updated-at 1707786063133} 
+{:block/created-at 1707786063133
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 25
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [2 0 0.5] [4 0 0.5] [7 0 0.5] [11 1 0.5] [15 1 0.5] [20 1 0.5] [25 1 0.5] [28 1 0.5] [29 1 0.5] [30 1 0.5] [29 1 0.5] [26 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5a80de30-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [241.5 311.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786060706
+:isComplete true}}
+:block/updated-at 1707786063133} 
+{:block/created-at 1707786063133
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 29
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 1 0.5] [5 3 0.5] [9 3 0.5] [13 4 0.5] [17 4 0.5] [21 4 0.5] [27 2 0.5] [32 1 0.5] [37 0 0.5] [40 0 0.5] [42 0 0.5] [43 2 0.5] [36 2 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5b1de180-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [238.5 416.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786061735
+:isComplete true}}
+:block/updated-at 1707786063133} 
+{:block/created-at 1707786063132
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 27
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 3 0.5] [3 3 0.5] [6 3 0.5] [10 2 0.5] [14 1 0.5] [18 1 0.5] [22 0 0.5] [24 0 0.5] [26 0 0.5] [27 0 0.5] [28 1 0.5] [24 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5ad280a0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [239.5 365.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786061239
+:isComplete true}}
+:block/updated-at 1707786063132} 
+{:block/created-at 1707786064221
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 30
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [1 2 0.5] [1 3 0.5] [1 5 0.5] [1 6 0.5] [1 9 0.5] [1 12 0.5] [1 17 0.5] [0 34 0.5] [0 47 0.5] [1 62 0.5] [1 78 0.5] [1 91 0.5] [2 101 0.5] [3 107 0.5] [3 109 0.5] [3 110 0.5] [3 99 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5bb9d360-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [778.5 386.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786062762
+:isComplete true}}
+:block/updated-at 1707786064221} 
+{:block/created-at 1707786064910
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 31
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[6 19 0.5] [6 18 0.5] [6 17 0.5] [6 18 0.5] [7 18 0.5] [8 18 0.5] [9 18 0.5] [11 19 0.5] [15 18 0.5] [21 17 0.5] [28 16 0.5] [38 14 0.5] [48 12 0.5] [60 10 0.5] [69 9 0.5] [77 7 0.5] [85 6 0.5] [93 4 0.5] [99 3 0.5] [103 2 0.5] [106 2 0.5] [108 1 0.5] [109 1 0.5] [109 0 0.5] [109 1 0.5] [109 0 0.5] [109 1 0.5] [107 4 0.5] [106 8 0.5] [106 14 0.5] [106 21 0.5] [106 31 0.5] [106 42 0.5] [106 57 0.5] [107 73 0.5] [108 91 0.5] [110 103 0.5] [112 113 0.5] [113 120 0.5] [115 124 0.5] [117 126 0.5] [118 127 0.5] [119 128 0.5] [120 128 0.5] [120 129 0.5] [119 129 0.5] [118 130 0.5] [117 129 0.5] [116 129 0.5] [115 128 0.5] [114 128 0.5] [113 128 0.5] [112 128 0.5] [110 127 0.5] [106 127 0.5] [102 127 0.5] [94 127 0.5] [86 127 0.5] [76 128 0.5] [66 128 0.5] [54 129 0.5] [43 128 0.5] [34 128 0.5] [25 128 0.5] [18 127 0.5] [8 128 0.5] [4 128 0.5] [3 129 0.5] [2 129 0.5] [1 129 0.5] [1 128 0.5] [0 128 0.5] [2 127 0.5] [3 126 0.5] [3 125 0.5] [4 124 0.5] [5 124 0.5] [4 124 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5bfea490-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [771.5 373.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786063273
+:isComplete true}}
+:block/updated-at 1707786064910} 
+{:block/created-at 1707786079302
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 32
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5cbe9930-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [778.5 475.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786064454
+:isComplete true}}
+:block/updated-at 1707786079302} 
+{:block/created-at 1707786079302
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 33
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 2 0.5] [0 4 0.5] [0 8 0.5] [0 12 0.5] [0 18 0.5] [1 23 0.5] [1 27 0.5] [2 30 0.5] [3 32 0.5] [3 33 0.5] [2 28 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5cc9e3d0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [777.5 476.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786064538
+:isComplete true}}
+:block/updated-at 1707786079302} 
+{:block/created-at 1707786079799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 34
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 8 0.5] [2 8 0.5] [4 8 0.5] [8 8 0.5] [13 8 0.5] [18 8 0.5] [24 7 0.5] [30 5 0.5] [36 4 0.5] [39 3 0.5] [43 2 0.5] [45 1 0.5] [47 0 0.5] [48 0 0.5] [49 0 0.5] [49 1 0.5] [46 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "65444cd0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [789.5 405.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786078767
+:isComplete true}}
+:block/updated-at 1707786079799} 
+{:block/created-at 1707786080202
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 35
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 8 0.5] [5 8 0.5] [9 7 0.5] [14 5 0.5] [23 4 0.5] [26 3 0.5] [29 3 0.5] [31 3 0.5] [33 2 0.5] [35 2 0.5] [36 1 0.5] [38 0 0.5] [33 2 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "65b696a0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [795.5 425.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786079512
+:isComplete true}}
+:block/updated-at 1707786080202} 
+{:block/created-at 1707786080578
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 36
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [3 1 0.5] [6 1 0.5] [10 2 0.5] [15 2 0.5] [20 2 0.5] [26 2 0.5] [34 2 0.5] [40 1 0.5] [45 1 0.5] [48 2 0.5] [53 3 0.5] [56 4 0.5] [58 5 0.5] [60 6 0.5] [62 6 0.5] [63 5 0.5] [64 5 0.5] [59 4 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "65ee6f80-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [791.5 453.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786079884
+:isComplete true}}
+:block/updated-at 1707786080578} 
+{:block/created-at 1707786094836
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 37
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 4 0.5] [0 3 0.5] [1 3 0.5] [2 3 0.5] [5 3 0.5] [12 3 0.5] [17 3 0.5] [23 3 0.5] [29 2 0.5] [36 1 0.5] [42 0 0.5] [47 0 0.5] [50 0 0.5] [53 0 0.5] [55 0 0.5] [57 0 0.5] [58 0 0.5] [52 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6627cf00-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [791.5 479.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786080259
+:isComplete true}}
+:block/updated-at 1707786094836} 
+{:block/created-at 1707786095487
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 38
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [0 0 0.5] [0 1 0.5] [0 0 0.5] [0 1 0.5] [0 2 0.5] [0 1 0.5] [0 2 0.5] [1 4 0.5] [1 8 0.5] [2 12 0.5] [2 17 0.5] [3 22 0.5] [3 26 0.5] [3 31 0.5] [4 35 0.5] [4 37 0.5] [4 39 0.5] [3 34 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6e991040-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1071.5 181.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786094425
+:isComplete true}}
+:block/updated-at 1707786095487} 
+{:block/created-at 1707786100311
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 39
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 8 0.5] [1 8 0.5] [0 8 0.5] [1 8 0.5] [0 8 0.5] [1 8 0.5] [2 7 0.5] [3 6 0.5] [4 5 0.5] [6 4 0.5] [9 2 0.5] [12 1 0.5] [15 0 0.5] [18 0 0.5] [22 0 0.5] [25 1 0.5] [28 2 0.5] [32 5 0.5] [35 8 0.5] [37 10 0.5] [39 16 0.5] [40 19 0.5] [42 22 0.5] [42 25 0.5] [42 28 0.5] [42 30 0.5] [42 33 0.5] [41 34 0.5] [40 36 0.5] [39 37 0.5] [38 38 0.5] [37 39 0.5] [36 40 0.5] [34 40 0.5] [31 41 0.5] [28 42 0.5] [24 42 0.5] [19 43 0.5] [15 45 0.5] [11 46 0.5] [7 47 0.5] [4 49 0.5] [11 46 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6eea8ba0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1070.5 172.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786094982
+:isComplete true}}
+:block/updated-at 1707786100311} 
+{:block/created-at 1707786102598
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 40
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 69 0.5] [0 68 0.5] [0 69 0.5] [0 68 0.5] [1 67 0.5] [2 66 0.5] [5 65 0.5] [8 61 0.5] [13 56 0.5] [18 49 0.5] [24 42 0.5] [29 34 0.5] [33 29 0.5] [36 24 0.5] [38 20 0.5] [40 16 0.5] [41 13 0.5] [42 10 0.5] [42 7 0.5] [42 6 0.5] [41 6 0.5] [40 6 0.5] [39 6 0.5] [38 6 0.5] [37 6 0.5] [36 7 0.5] [35 7 0.5] [34 8 0.5] [32 8 0.5] [31 9 0.5] [30 9 0.5] [29 10 0.5] [29 9 0.5] [32 7 0.5] [36 5 0.5] [39 4 0.5] [42 2 0.5] [45 1 0.5] [47 1 0.5] [50 0 0.5] [51 1 0.5] [52 1 0.5] [52 2 0.5] [53 3 0.5] [53 5 0.5] [53 8 0.5] [53 11 0.5] [53 14 0.5] [53 18 0.5] [53 21 0.5] [54 24 0.5] [53 26 0.5] [53 21 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "71b01440-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [743.5 531.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786099642
+:isComplete true}}
+:block/updated-at 1707786102598} 
+{:block/created-at 1707786106230
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 42
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[14 0 0.5] [12 1 0.5] [11 2 0.5] [10 4 0.5] [8 6 0.5] [7 8 0.5] [6 11 0.5] [6 12 0.5] [7 14 0.5] [9 15 0.5] [11 15 0.5] [14 15 0.5] [18 13 0.5] [20 11 0.5] [21 9 0.5] [21 7 0.5] [21 5 0.5] [21 3 0.5] [21 2 0.5] [20 1 0.5] [19 1 0.5] [19 0 0.5] [18 0 0.5] [17 0 0.5] [16 0 0.5] [14 1 0.5] [13 3 0.5] [11 4 0.5] [10 7 0.5] [8 10 0.5] [7 14 0.5] [5 17 0.5] [3 21 0.5] [2 24 0.5] [1 26 0.5] [0 28 0.5] [0 30 0.5] [0 31 0.5] [1 31 0.5] [2 28 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "72ec16b0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [659.5 638.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786101700
+:isComplete true}}
+:block/updated-at 1707786106230} 
+{:block/created-at 1707786106229
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 43
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[15 0 0.5] [14 0 0.5] [13 1 0.5] [11 3 0.5] [8 4 0.5] [7 6 0.5] [5 7 0.5] [4 8 0.5] [4 9 0.5] [5 10 0.5] [6 11 0.5] [9 12 0.5] [12 13 0.5] [14 13 0.5] [15 14 0.5] [17 14 0.5] [18 15 0.5] [18 16 0.5] [18 17 0.5] [18 18 0.5] [17 18 0.5] [16 20 0.5] [14 21 0.5] [12 22 0.5] [10 23 0.5] [7 24 0.5] [5 25 0.5] [3 25 0.5] [1 24 0.5] [0 24 0.5] [3 23 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "73379ea0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [685.5 632.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786102186
+:isComplete true}}
+:block/updated-at 1707786106229} 
+{:block/created-at 1707786106230
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 41
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[21 24 0.5] [21 23 0.5] [21 22 0.5] [21 21 0.5] [20 21 0.5] [20 20 0.5] [19 19 0.5] [18 19 0.5] [17 20 0.5] [16 21 0.5] [15 22 0.5] [13 23 0.5] [11 24 0.5] [9 26 0.5] [7 29 0.5] [4 31 0.5] [2 33 0.5] [1 35 0.5] [0 37 0.5] [0 38 0.5] [1 39 0.5] [2 39 0.5] [5 38 0.5] [9 37 0.5] [12 34 0.5] [15 30 0.5] [18 26 0.5] [20 22 0.5] [21 18 0.5] [23 15 0.5] [24 11 0.5] [25 8 0.5] [26 5 0.5] [26 2 0.5] [26 0 0.5] [26 2 0.5] [25 4 0.5] [24 8 0.5] [24 11 0.5] [23 14 0.5] [23 16 0.5] [23 18 0.5] [24 20 0.5] [25 20 0.5] [27 21 0.5] [29 21 0.5] [30 21 0.5] [31 20 0.5] [32 19 0.5] [31 18 0.5] [30 18 0.5] [29 18 0.5] [28 19 0.5] [26 21 0.5] [25 23 0.5] [24 25 0.5] [24 30 0.5] [24 32 0.5] [25 34 0.5] [27 35 0.5] [30 36 0.5] [32 36 0.5] [35 35 0.5] [38 34 0.5] [40 33 0.5] [36 33 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "728a95c0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [628.5 617.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786101087
+:isComplete true}}
+:block/updated-at 1707786106230} 
+{:block/created-at 1707786110243
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 44
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 9 0.5] [1 9 0.5] [2 9 0.5] [3 10 0.5] [4 9 0.5] [5 9 0.5] [6 9 0.5] [7 8 0.5] [7 7 0.5] [8 7 0.5] [9 4 0.5] [10 3 0.5] [10 2 0.5] [10 1 0.5] [10 0 0.5] [9 0 0.5] [8 0 0.5] [7 1 0.5] [6 2 0.5] [5 3 0.5] [3 8 0.5] [2 10 0.5] [1 12 0.5] [1 13 0.5] [1 15 0.5] [2 16 0.5] [3 17 0.5] [4 17 0.5] [6 17 0.5] [8 16 0.5] [11 16 0.5] [17 13 0.5] [19 12 0.5] [21 10 0.5] [23 9 0.5] [24 7 0.5] [20 9 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "751167b0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [548.5 696.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786105297
+:isComplete true}}
+:block/updated-at 1707786110243} 
+{:block/created-at 1707786110243
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 45
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[4 0 0.5] [4 1 0.5] [4 2 0.5] [3 4 0.5] [2 6 0.5] [1 10 0.5] [0 12 0.5] [0 13 0.5] [1 11 0.5] [3 9 0.5] [5 7 0.5] [7 5 0.5] [8 3 0.5] [10 2 0.5] [11 1 0.5] [13 1 0.5] [15 1 0.5] [16 1 0.5] [17 2 0.5] [19 3 0.5] [20 5 0.5] [21 7 0.5] [21 9 0.5] [21 10 0.5] [21 12 0.5] [21 13 0.5] [21 14 0.5] [21 15 0.5] [22 14 0.5] [21 13 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "755611d0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [570.5 696.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786105740
+:isComplete true}}
+:block/updated-at 1707786110243} 
+{:block/created-at 1707786111375
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 51
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 1 0.5] [2 2 0.5] [3 3 0.5] [4 3 0.5] [2 3 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "77e23af0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [707.5 678.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786109990
+:isComplete true}}
+:block/updated-at 1707786111375} 
+{:block/created-at 1707786111375
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 48
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[12 4 0.5] [13 3 0.5] [13 2 0.5] [13 1 0.5] [12 0 0.5] [11 0 0.5] [10 0 0.5] [6 3 0.5] [4 6 0.5] [2 9 0.5] [1 12 0.5] [0 14 0.5] [0 16 0.5] [1 18 0.5] [2 19 0.5] [4 19 0.5] [7 19 0.5] [10 17 0.5] [13 15 0.5] [16 12 0.5] [18 10 0.5] [20 7 0.5] [21 5 0.5] [17 8 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "776fca10-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [664.5 694.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786109258
+:isComplete true}}
+:block/updated-at 1707786111375} 
+{:block/created-at 1707786111375
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 49
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[5 0 0.5] [5 1 0.5] [5 2 0.5] [4 4 0.5] [3 6 0.5] [3 9 0.5] [2 12 0.5] [2 16 0.5] [1 19 0.5] [0 23 0.5] [0 26 0.5] [0 28 0.5] [0 29 0.5] [0 30 0.5] [1 29 0.5] [3 28 0.5] [4 26 0.5] [6 24 0.5] [7 23 0.5] [9 21 0.5] [10 20 0.5] [12 19 0.5] [13 20 0.5] [14 21 0.5] [14 23 0.5] [15 25 0.5] [15 27 0.5] [15 29 0.5] [16 31 0.5] [16 32 0.5] [15 29 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "77968bf0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [681.5 672.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786109519
+:isComplete true}}
+:block/updated-at 1707786111375} 
+{:block/created-at 1707786111375
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 50
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[2 0 0.5] [3 0 0.5] [3 1 0.5] [3 4 0.5] [2 6 0.5] [1 9 0.5] [0 13 0.5] [0 15 0.5] [0 16 0.5] [0 13 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "77ca1f10-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [702.5 690.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786109836
+:isComplete true}}
+:block/updated-at 1707786111375} 
+{:block/created-at 1707786111375
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 46
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[19 3 0.5] [19 2 0.5] [18 2 0.5] [18 1 0.5] [17 1 0.5] [16 1 0.5] [16 0 0.5] [15 0 0.5] [14 0 0.5] [13 0 0.5] [11 1 0.5] [10 1 0.5] [7 3 0.5] [5 5 0.5] [3 8 0.5] [2 10 0.5] [1 12 0.5] [0 14 0.5] [1 16 0.5] [2 17 0.5] [4 17 0.5] [8 16 0.5] [11 14 0.5] [14 11 0.5] [16 9 0.5] [17 7 0.5] [18 5 0.5] [19 3 0.5] [20 2 0.5] [21 1 0.5] [21 0 0.5] [21 1 0.5] [20 7 0.5] [19 11 0.5] [19 14 0.5] [19 16 0.5] [20 16 0.5] [22 15 0.5] [24 12 0.5] [22 12 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7709dc50-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [620.5 695.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786108606
+:isComplete true}}
+:block/updated-at 1707786111375} 
+{:block/created-at 1707786111375
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 47
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[2 0 0.5] [2 1 0.5] [1 3 0.5] [1 7 0.5] [0 9 0.5] [0 10 0.5] [1 9 0.5] [2 7 0.5] [3 5 0.5] [4 3 0.5] [6 2 0.5] [6 1 0.5] [7 1 0.5] [8 0 0.5] [9 0 0.5] [11 0 0.5] [13 0 0.5] [15 1 0.5] [12 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7748ba10-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [650.5 696.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786108997
+:isComplete true}}
+:block/updated-at 1707786111375} 
+{:block/created-at 1707786119209
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 52
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 7 0.5] [2 12 0.5] [3 14 0.5] [4 15 0.5] [4 16 0.5] [4 15 0.5] [5 15 0.5] [7 13 0.5] [8 10 0.5] [10 7 0.5] [12 4 0.5] [13 2 0.5] [15 0 0.5] [16 0 0.5] [17 1 0.5] [15 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7811fd80-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [718.5 681.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786110314
+:isComplete true}}
+:block/updated-at 1707786119209} 
+{:block/created-at 1707786119209
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 53
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[5 10 0.5] [4 10 0.5] [3 11 0.5] [2 12 0.5] [1 14 0.5] [0 16 0.5] [0 18 0.5] [0 19 0.5] [2 21 0.5] [5 20 0.5] [7 19 0.5] [10 17 0.5] [12 15 0.5] [13 13 0.5] [14 11 0.5] [14 8 0.5] [15 5 0.5] [15 3 0.5] [14 2 0.5] [14 0 0.5] [13 0 0.5] [12 0 0.5] [11 2 0.5] [11 4 0.5] [11 6 0.5] [12 5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "783f4f10-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [739.5 675.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786110620
+:isComplete true}}
+:block/updated-at 1707786119209} 
+{:block/created-at 1707786119210
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 54
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[10 0 0.5] [10 1 0.5] [9 1 0.5] [8 2 0.5] [7 3 0.5] [7 4 0.5] [8 5 0.5] [9 6 0.5] [10 7 0.5] [11 8 0.5] [11 9 0.5] [12 9 0.5] [12 10 0.5] [13 11 0.5] [13 12 0.5] [13 13 0.5] [13 14 0.5] [13 15 0.5] [12 15 0.5] [11 15 0.5] [9 15 0.5] [7 16 0.5] [6 16 0.5] [4 16 0.5] [2 16 0.5] [0 16 0.5] [3 16 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "787245f0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [754.5 676.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786110955
+:isComplete true}}
+:block/updated-at 1707786119210} 
+{:block/created-at 1707786121077
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 55
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[131 17 0.5] [131 18 0.5] [131 19 0.5] [131 20 0.5] [131 19 0.5] [132 19 0.5] [131 19 0.5] [130 18 0.5] [129 18 0.5] [128 18 0.5] [126 18 0.5] [124 17 0.5] [120 17 0.5] [116 16 0.5] [111 17 0.5] [105 17 0.5] [97 17 0.5] [90 18 0.5] [83 17 0.5] [77 17 0.5] [71 16 0.5] [66 16 0.5] [61 15 0.5] [56 15 0.5] [50 16 0.5] [46 16 0.5] [40 16 0.5] [33 16 0.5] [26 16 0.5] [20 16 0.5] [15 16 0.5] [12 16 0.5] [7 17 0.5] [6 18 0.5] [5 18 0.5] [4 18 0.5] [4 19 0.5] [3 19 0.5] [3 20 0.5] [2 21 0.5] [1 22 0.5] [1 23 0.5] [0 24 0.5] [0 25 0.5] [0 28 0.5] [0 31 0.5] [0 34 0.5] [0 36 0.5] [0 40 0.5] [0 44 0.5] [0 49 0.5] [0 55 0.5] [1 64 0.5] [1 72 0.5] [2 83 0.5] [3 95 0.5] [5 107 0.5] [7 121 0.5] [9 136 0.5] [11 150 0.5] [13 161 0.5] [14 172 0.5] [15 181 0.5] [16 188 0.5] [17 200 0.5] [17 206 0.5] [17 210 0.5] [18 213 0.5] [18 212 0.5] [19 212 0.5] [19 211 0.5] [21 211 0.5] [22 211 0.5] [23 211 0.5] [24 211 0.5] [26 210 0.5] [30 210 0.5] [33 209 0.5] [39 207 0.5] [46 207 0.5] [55 207 0.5] [67 208 0.5] [80 208 0.5] [110 211 0.5] [123 213 0.5] [137 214 0.5] [148 215 0.5] [158 213 0.5] [168 211 0.5] [178 207 0.5] [189 204 0.5] [199 202 0.5] [208 201 0.5] [216 201 0.5] [231 205 0.5] [237 208 0.5] [242 209 0.5] [246 211 0.5] [249 212 0.5] [252 213 0.5] [254 213 0.5] [255 213 0.5] [256 212 0.5] [255 212 0.5] [255 211 0.5] [254 210 0.5] [253 206 0.5] [254 201 0.5] [255 195 0.5] [256 186 0.5] [256 175 0.5] [256 161 0.5] [256 146 0.5] [255 130 0.5] [254 114 0.5] [252 99 0.5] [250 85 0.5] [247 69 0.5] [244 54 0.5] [240 39 0.5] [234 27 0.5] [229 19 0.5] [226 16 0.5] [225 15 0.5] [225 16 0.5] [224 16 0.5] [224 17 0.5] [224 18 0.5] [225 18 0.5] [225 19 0.5] [225 20 0.5] [225 21 0.5] [223 21 0.5] [221 21 0.5] [218 19 0.5] [213 17 0.5] [207 13 0.5] [199 9 0.5] [189 6 0.5] [180 4 0.5] [170 4 0.5] [160 4 0.5] [150 7 0.5] [140 9 0.5] [129 9 0.5] [121 8 0.5] [105 4 0.5] [97 2 0.5] [89 0 0.5] [83 0 0.5] [78 2 0.5] [93 4 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7c6292f0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1001.5 103.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786117688
+:isComplete true}}
+:block/updated-at 1707786121077} 
+{:block/created-at 1707786123643
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 56
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 98 0.5] [1 98 0.5] [2 98 0.5] [3 98 0.5] [4 98 0.5] [5 98 0.5] [7 98 0.5] [8 98 0.5] [11 98 0.5] [14 99 0.5] [19 99 0.5] [24 99 0.5] [30 98 0.5] [36 95 0.5] [43 91 0.5] [51 85 0.5] [60 78 0.5] [69 71 0.5] [79 64 0.5] [89 55 0.5] [99 47 0.5] [108 39 0.5] [119 29 0.5] [123 25 0.5] [127 22 0.5] [130 20 0.5] [131 18 0.5] [133 15 0.5] [134 12 0.5] [135 9 0.5] [135 7 0.5] [135 5 0.5] [135 4 0.5] [135 3 0.5] [135 4 0.5] [135 3 0.5] [135 4 0.5] [134 3 0.5] [130 4 0.5] [127 4 0.5] [124 4 0.5] [121 4 0.5] [118 5 0.5] [116 6 0.5] [115 6 0.5] [114 6 0.5] [115 6 0.5] [117 5 0.5] [126 3 0.5] [130 1 0.5] [133 1 0.5] [135 0 0.5] [137 0 0.5] [138 0 0.5] [139 1 0.5] [140 2 0.5] [142 5 0.5] [142 9 0.5] [142 14 0.5] [142 19 0.5] [142 23 0.5] [141 26 0.5] [141 29 0.5] [139 32 0.5] [138 35 0.5] [136 39 0.5] [137 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7dfc6cd0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [904.5 370.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786120289
+:isComplete true}}
+:block/updated-at 1707786123643} 
+{:block/created-at 1707786127873
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 57
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[1 0 0.5] [0 0 0.5] [1 0 0.5] [1 2 0.5] [1 3 0.5] [2 6 0.5] [2 9 0.5] [3 13 0.5] [4 17 0.5] [5 19 0.5] [6 20 0.5] [7 18 0.5] [10 14 0.5] [12 10 0.5] [13 6 0.5] [14 2 0.5] [15 1 0.5] [15 0 0.5] [16 0 0.5] [15 0 0.5] [16 0 0.5] [17 0 0.5] [16 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7eb44b20-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [934.5 501.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786121450
+:isComplete true}}
+:block/updated-at 1707786127873} 
+{:block/created-at 1707786127873
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 60
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 10 0.5] [0 12 0.5] [0 14 0.5] [0 16 0.5] [0 18 0.5] [1 19 0.5] [2 19 0.5] [4 19 0.5] [5 18 0.5] [7 17 0.5] [9 15 0.5] [11 12 0.5] [12 9 0.5] [12 7 0.5] [12 5 0.5] [12 3 0.5] [12 1 0.5] [12 0 0.5] [11 4 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7f38e470-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [977.5 492.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786122315
+:isComplete true}}
+:block/updated-at 1707786127873} 
+{:block/created-at 1707786127873
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 59
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[1 1 0.5] [0 0 0.5] [1 0 0.5] [0 0 0.5] [1 1 0.5] [1 2 0.5] [1 5 0.5] [0 8 0.5] [0 12 0.5] [0 17 0.5] [0 21 0.5] [1 26 0.5] [1 31 0.5] [1 34 0.5] [2 36 0.5] [3 36 0.5] [4 36 0.5] [3 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7f146c80-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [969.5 481.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786122075
+:isComplete true}}
+:block/updated-at 1707786127873} 
+{:block/created-at 1707786127873
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 58
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[5 0 0.5] [4 1 0.5] [3 2 0.5] [2 5 0.5] [0 11 0.5] [0 13 0.5] [0 15 0.5] [0 17 0.5] [1 18 0.5] [2 19 0.5] [3 19 0.5] [5 18 0.5] [6 17 0.5] [7 15 0.5] [8 13 0.5] [8 9 0.5] [8 8 0.5] [8 7 0.5] [7 6 0.5] [7 5 0.5] [5 4 0.5] [4 4 0.5] [4 3 0.5] [3 3 0.5] [3 4 0.5] [2 4 0.5] [3 4 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7ee0d960-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [957.5 498.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786121746
+:isComplete true}}
+:block/updated-at 1707786127873} 
+{:block/created-at 1707786127873
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 61
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 8 0.5] [0 9 0.5] [1 10 0.5] [1 12 0.5] [0 15 0.5] [0 18 0.5] [0 20 0.5] [0 25 0.5] [0 27 0.5] [0 28 0.5] [1 27 0.5] [2 24 0.5] [3 22 0.5] [4 19 0.5] [5 17 0.5] [8 14 0.5] [9 14 0.5] [10 14 0.5] [11 15 0.5] [11 17 0.5] [12 19 0.5] [12 20 0.5] [13 18 0.5] [14 15 0.5] [15 13 0.5] [16 11 0.5] [17 10 0.5] [18 11 0.5] [18 12 0.5] [19 14 0.5] [20 15 0.5] [20 16 0.5] [21 18 0.5] [22 19 0.5] [23 20 0.5] [24 20 0.5] [26 20 0.5] [27 20 0.5] [28 20 0.5] [29 19 0.5] [30 19 0.5] [31 18 0.5] [32 17 0.5] [33 15 0.5] [34 12 0.5] [34 10 0.5] [35 8 0.5] [35 7 0.5] [34 6 0.5] [34 5 0.5] [33 5 0.5] [33 6 0.5] [31 7 0.5] [30 9 0.5] [30 11 0.5] [29 14 0.5] [29 16 0.5] [29 17 0.5] [29 18 0.5] [30 18 0.5] [31 18 0.5] [33 17 0.5] [36 16 0.5] [38 14 0.5] [40 11 0.5] [41 9 0.5] [42 7 0.5] [42 6 0.5] [42 5 0.5] [42 4 0.5] [42 5 0.5] [42 6 0.5] [43 9 0.5] [42 11 0.5] [43 13 0.5] [43 15 0.5] [43 14 0.5] [44 12 0.5] [45 8 0.5] [47 6 0.5] [48 3 0.5] [49 1 0.5] [50 1 0.5] [51 0 0.5] [52 1 0.5] [54 2 0.5] [55 3 0.5] [57 6 0.5] [58 9 0.5] [59 12 0.5] [60 15 0.5] [61 16 0.5] [61 17 0.5] [59 14 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7f6105e0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [992.5 481.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786122653
+:isComplete true}}
+:block/updated-at 1707786127873} 
+{:block/created-at 1707786129470
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 64
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[8 19 0.5] [7 19 0.5] [6 19 0.5] [5 20 0.5] [4 20 0.5] [3 22 0.5] [2 23 0.5] [1 24 0.5] [0 25 0.5] [1 26 0.5] [1 27 0.5] [3 27 0.5] [5 27 0.5] [7 26 0.5] [10 24 0.5] [11 22 0.5] [13 20 0.5] [14 17 0.5] [15 14 0.5] [15 10 0.5] [15 4 0.5] [14 2 0.5] [14 1 0.5] [14 0 0.5] [13 0 0.5] [13 2 0.5] [13 4 0.5] [13 7 0.5] [13 10 0.5] [13 13 0.5] [14 15 0.5] [14 17 0.5] [15 19 0.5] [16 20 0.5] [18 21 0.5] [20 21 0.5] [21 21 0.5] [22 20 0.5] [23 19 0.5] [23 18 0.5] [23 16 0.5] [22 16 0.5] [21 16 0.5] [20 16 0.5] [19 18 0.5] [18 20 0.5] [19 22 0.5] [19 24 0.5] [20 26 0.5] [21 28 0.5] [23 30 0.5] [24 31 0.5] [25 32 0.5] [26 32 0.5] [27 33 0.5] [28 32 0.5] [29 31 0.5] [30 30 0.5] [28 30 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "82192100-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1185.5 140.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786127180
+:isComplete true}}
+:block/updated-at 1707786129470} 
+{:block/created-at 1707786129470
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 63
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[1 1 0.5] [0 2 0.5] [0 3 0.5] [0 4 0.5] [0 6 0.5] [0 7 0.5] [1 9 0.5] [2 10 0.5] [3 11 0.5] [4 11 0.5] [6 11 0.5] [9 9 0.5] [10 9 0.5] [10 7 0.5] [11 7 0.5] [11 6 0.5] [11 5 0.5] [10 4 0.5] [9 3 0.5] [8 2 0.5] [6 1 0.5] [5 0 0.5] [4 0 0.5] [3 0 0.5] [4 1 0.5] [5 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "81dc3f10-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1168.5 159.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786126748
+:isComplete true}}
+:block/updated-at 1707786129470} 
+{:block/created-at 1707786129470
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 62
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 2 0.5] [0 1 0.5] [0 2 0.5] [0 1 0.5] [0 2 0.5] [0 1 0.5] [0 2 0.5] [0 4 0.5] [0 6 0.5] [1 9 0.5] [2 13 0.5] [2 15 0.5] [2 16 0.5] [2 15 0.5] [2 13 0.5] [2 9 0.5] [2 7 0.5] [2 4 0.5] [3 2 0.5] [3 1 0.5] [4 0 0.5] [5 0 0.5] [6 0 0.5] [8 1 0.5] [9 2 0.5] [10 4 0.5] [12 6 0.5] [13 7 0.5] [13 9 0.5] [14 11 0.5] [14 12 0.5] [15 14 0.5] [15 15 0.5] [14 12 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8196d1a0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1148.5 160.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786126301
+:isComplete true}}
+:block/updated-at 1707786129470} 
+{:block/created-at 1707786130459
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 66
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[4 3 0.5] [3 3 0.5] [3 4 0.5] [3 6 0.5] [3 8 0.5] [4 9 0.5] [5 11 0.5] [6 12 0.5] [8 12 0.5] [10 11 0.5] [12 10 0.5] [13 9 0.5] [13 8 0.5] [14 7 0.5] [14 6 0.5] [13 5 0.5] [12 4 0.5] [12 3 0.5] [10 2 0.5] [9 1 0.5] [8 1 0.5] [7 0 0.5] [6 1 0.5] [5 2 0.5] [4 3 0.5] [3 5 0.5] [2 7 0.5] [1 9 0.5] [1 11 0.5] [1 14 0.5] [0 18 0.5] [0 21 0.5] [0 25 0.5] [0 29 0.5] [0 32 0.5] [1 35 0.5] [1 37 0.5] [2 38 0.5] [1 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "832cdaf0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1161.5 204.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786128967
+:isComplete true}}
+:block/updated-at 1707786130459} 
+{:block/created-at 1707786130459
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 65
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [0 2 0.5] [1 4 0.5] [1 6 0.5] [1 8 0.5] [1 10 0.5] [2 12 0.5] [2 13 0.5] [3 12 0.5] [3 11 0.5] [4 9 0.5] [5 8 0.5] [5 7 0.5] [6 6 0.5] [7 4 0.5] [8 3 0.5] [8 2 0.5] [9 2 0.5] [10 2 0.5] [11 2 0.5] [13 3 0.5] [14 4 0.5] [15 6 0.5] [15 8 0.5] [16 9 0.5] [16 10 0.5] [17 12 0.5] [17 14 0.5] [17 15 0.5] [16 12 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "82eb8c30-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1142.5 206.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786128531
+:isComplete true}}
+:block/updated-at 1707786130459} 
+{:block/created-at 1707786140823
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 67
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 4 0.5] [0 3 0.5] [0 4 0.5] [1 4 0.5] [1 5 0.5] [1 6 0.5] [1 7 0.5] [2 9 0.5] [2 10 0.5] [2 11 0.5] [2 12 0.5] [3 11 0.5] [4 10 0.5] [4 8 0.5] [5 6 0.5] [7 4 0.5] [8 2 0.5] [9 1 0.5] [10 0 0.5] [11 1 0.5] [11 2 0.5] [12 4 0.5] [13 6 0.5] [13 7 0.5] [13 8 0.5] [13 7 0.5] [14 6 0.5] [15 5 0.5] [17 4 0.5] [18 3 0.5] [19 3 0.5] [20 3 0.5] [21 4 0.5] [22 4 0.5] [23 5 0.5] [23 6 0.5] [24 10 0.5] [24 12 0.5] [24 14 0.5] [23 16 0.5] [23 13 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "83b60820-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1181.5 201.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786129868
+:isComplete true}}
+:block/updated-at 1707786140823} 
+{:block/created-at 1707786141883
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 71
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 6 0.5] [0 7 0.5] [1 8 0.5] [1 10 0.5] [2 12 0.5] [2 13 0.5] [2 14 0.5] [2 13 0.5] [3 13 0.5] [3 11 0.5] [4 9 0.5] [5 7 0.5] [6 5 0.5] [6 3 0.5] [7 2 0.5] [8 2 0.5] [9 1 0.5] [10 0 0.5] [12 0 0.5] [10 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "89e60bf0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1044.5 63.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786140228
+:isComplete true}}
+:block/updated-at 1707786141883} 
+{:block/created-at 1707786141883
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 68
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[10 0 0.5] [10 1 0.5] [10 0 0.5] [10 1 0.5] [9 1 0.5] [8 1 0.5] [7 1 0.5] [6 2 0.5] [5 2 0.5] [4 3 0.5] [3 4 0.5] [2 5 0.5] [1 6 0.5] [1 7 0.5] [0 9 0.5] [0 11 0.5] [1 13 0.5] [1 15 0.5] [3 17 0.5] [4 19 0.5] [6 20 0.5] [8 22 0.5] [11 22 0.5] [14 22 0.5] [17 22 0.5] [21 22 0.5] [15 21 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "894d9c80-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [976.5 68.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786139236
+:isComplete true}}
+:block/updated-at 1707786141883} 
+{:block/created-at 1707786141883
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 70
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 1 0.5] [1 2 0.5] [2 4 0.5] [4 6 0.5] [5 9 0.5] [5 12 0.5] [7 14 0.5] [7 15 0.5] [7 16 0.5] [8 17 0.5] [8 16 0.5] [8 15 0.5] [9 14 0.5] [9 11 0.5] [10 9 0.5] [11 6 0.5] [12 4 0.5] [12 3 0.5] [13 2 0.5] [14 2 0.5] [15 1 0.5] [16 0 0.5] [17 0 0.5] [15 2 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "89bd4e40-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1023.5 61.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786139965
+:isComplete true}}
+:block/updated-at 1707786141883} 
+{:block/created-at 1707786141883
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 72
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[6 8 0.5] [7 6 0.5] [8 4 0.5] [9 3 0.5] [9 1 0.5] [8 0 0.5] [7 0 0.5] [6 0 0.5] [5 1 0.5] [3 2 0.5] [2 4 0.5] [1 6 0.5] [0 12 0.5] [0 15 0.5] [1 17 0.5] [3 19 0.5] [4 19 0.5] [6 20 0.5] [8 20 0.5] [11 20 0.5] [14 19 0.5] [18 16 0.5] [13 17 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8a094b60-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1061.5 57.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786140462
+:isComplete true}}
+:block/updated-at 1707786141883} 
+{:block/created-at 1707786141883
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 69
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[1 2 0.5] [0 2 0.5] [1 2 0.5] [0 3 0.5] [0 4 0.5] [1 9 0.5] [2 11 0.5] [5 14 0.5] [8 14 0.5] [11 14 0.5] [13 13 0.5] [16 12 0.5] [18 11 0.5] [18 9 0.5] [19 8 0.5] [19 7 0.5] [19 6 0.5] [18 5 0.5] [17 5 0.5] [14 3 0.5] [12 3 0.5] [10 2 0.5] [9 1 0.5] [9 0 0.5] [11 2 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "898bb6f0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [999.5 68.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786139641
+:isComplete true}}
+:block/updated-at 1707786141883} 
+{:block/created-at 1707786142791
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 75
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[3 0 0.5] [3 1 0.5] [3 2 0.5] [4 4 0.5] [6 6 0.5] [7 7 0.5] [8 9 0.5] [9 10 0.5] [9 11 0.5] [10 12 0.5] [9 12 0.5] [9 13 0.5] [7 14 0.5] [6 14 0.5] [4 14 0.5] [2 14 0.5] [0 14 0.5] [3 13 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8aae3df0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1150.5 62.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786141538
+:isComplete true}}
+:block/updated-at 1707786142791} 
+{:block/created-at 1707786142792
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 73
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [1 3 0.5] [2 5 0.5] [1 8 0.5] [2 11 0.5] [3 16 0.5] [4 19 0.5] [5 21 0.5] [5 24 0.5] [7 26 0.5] [5 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8a5bb120-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1115.5 56.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786140991
+:isComplete true}}
+:block/updated-at 1707786142792} 
+{:block/created-at 1707786142792
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 74
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[7 0 0.5] [6 0 0.5] [5 1 0.5] [4 3 0.5] [3 4 0.5] [2 5 0.5] [1 7 0.5] [0 8 0.5] [0 10 0.5] [1 10 0.5] [2 10 0.5] [3 9 0.5] [5 8 0.5] [6 7 0.5] [7 7 0.5] [8 6 0.5] [9 6 0.5] [8 7 0.5] [9 7 0.5] [10 8 0.5] [10 10 0.5] [11 11 0.5] [11 12 0.5] [12 12 0.5] [11 10 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8a7d1bd0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1132.5 66.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786141223
+:isComplete true}}
+:block/updated-at 1707786142792} 
+{:block/created-at 1707786144657
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 76
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[10 13 0.5] [9 13 0.5] [8 13 0.5] [6 14 0.5] [5 15 0.5] [4 16 0.5] [2 17 0.5] [2 18 0.5] [0 22 0.5] [0 24 0.5] [0 26 0.5] [1 27 0.5] [2 28 0.5] [4 28 0.5] [6 28 0.5] [8 26 0.5] [10 25 0.5] [13 21 0.5] [14 18 0.5] [16 15 0.5] [16 12 0.5] [17 8 0.5] [17 6 0.5] [17 3 0.5] [17 2 0.5] [16 1 0.5] [16 0 0.5] [16 1 0.5] [16 2 0.5] [14 8 0.5] [13 12 0.5] [13 16 0.5] [13 19 0.5] [13 22 0.5] [13 24 0.5] [14 26 0.5] [15 26 0.5] [16 27 0.5] [18 27 0.5] [20 26 0.5] [22 26 0.5] [24 26 0.5] [27 24 0.5] [28 23 0.5] [28 22 0.5] [29 22 0.5] [29 21 0.5] [28 21 0.5] [28 22 0.5] [28 23 0.5] [28 25 0.5] [29 25 0.5] [30 26 0.5] [32 26 0.5] [34 26 0.5] [36 25 0.5] [33 25 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8b053790-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1189.5 50.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786142147
+:isComplete true}}
+:block/updated-at 1707786144657} 
+{:block/created-at 1707786145249
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 78
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[3 0 0.5] [4 0 0.5] [3 0 0.5] [2 1 0.5] [1 2 0.5] [0 3 0.5] [0 4 0.5] [0 5 0.5] [1 6 0.5] [1 7 0.5] [3 8 0.5] [4 9 0.5] [5 9 0.5] [6 10 0.5] [7 11 0.5] [7 12 0.5] [7 13 0.5] [7 14 0.5] [6 15 0.5] [5 16 0.5] [5 18 0.5] [4 18 0.5] [2 20 0.5] [1 20 0.5] [0 20 0.5] [1 18 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8baf8150-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1239.5 59.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786143232
+:isComplete true}}
+:block/updated-at 1707786145249} 
+{:block/created-at 1707786145249
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 79
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[15 3 0.5] [16 3 0.5] [15 3 0.5] [15 4 0.5] [14 4 0.5] [15 4 0.5] [14 5 0.5] [15 5 0.5] [15 4 0.5] [14 4 0.5] [13 4 0.5] [12 3 0.5] [11 3 0.5] [10 3 0.5] [9 3 0.5] [8 3 0.5] [7 4 0.5] [6 4 0.5] [5 6 0.5] [4 7 0.5] [4 9 0.5] [3 11 0.5] [4 15 0.5] [5 17 0.5] [6 18 0.5] [8 18 0.5] [10 17 0.5] [12 15 0.5] [15 13 0.5] [16 10 0.5] [17 7 0.5] [18 5 0.5] [18 3 0.5] [17 2 0.5] [17 1 0.5] [16 1 0.5] [15 1 0.5] [13 1 0.5] [12 0 0.5] [11 1 0.5] [10 2 0.5] [8 4 0.5] [7 6 0.5] [6 9 0.5] [4 16 0.5] [3 20 0.5] [3 24 0.5] [2 27 0.5] [2 31 0.5] [1 34 0.5] [1 38 0.5] [0 41 0.5] [0 42 0.5] [1 43 0.5] [1 44 0.5] [2 42 0.5] [2 39 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8be44cf0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1240.5 58.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786143609
+:isComplete true}}
+:block/updated-at 1707786145249} 
+{:block/created-at 1707786145248
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 80
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[10 0 0.5] [9 0 0.5] [9 1 0.5] [7 2 0.5] [6 3 0.5] [5 4 0.5] [5 5 0.5] [4 6 0.5] [5 7 0.5] [6 8 0.5] [7 9 0.5] [9 10 0.5] [10 10 0.5] [11 10 0.5] [12 11 0.5] [13 12 0.5] [14 12 0.5] [14 13 0.5] [14 14 0.5] [14 16 0.5] [14 17 0.5] [13 19 0.5] [12 20 0.5] [11 21 0.5] [9 23 0.5] [7 23 0.5] [5 25 0.5] [3 25 0.5] [2 25 0.5] [0 25 0.5] [3 23 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8c4b2510-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1259.5 55.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786144257
+:isComplete true}}
+:block/updated-at 1707786145248} 
+{:block/created-at 1707786145249
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 77
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 6 0.5] [1 6 0.5] [2 6 0.5] [3 5 0.5] [4 4 0.5] [5 3 0.5] [6 2 0.5] [6 1 0.5] [7 0 0.5] [6 0 0.5] [5 0 0.5] [4 1 0.5] [3 2 0.5] [3 3 0.5] [2 5 0.5] [2 7 0.5] [2 9 0.5] [2 10 0.5] [2 11 0.5] [3 12 0.5] [5 13 0.5] [8 13 0.5] [11 12 0.5] [13 11 0.5] [15 10 0.5] [17 9 0.5] [13 10 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8b7a1970-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1220.5 64.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786142883
+:isComplete true}}
+:block/updated-at 1707786145249} 
+{:block/created-at 1707786146238
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 82
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[15 23 0.5] [15 20 0.5] [15 16 0.5] [13 13 0.5] [11 10 0.5] [10 7 0.5] [8 4 0.5] [7 3 0.5] [5 1 0.5] [4 0 0.5] [3 0 0.5] [2 0 0.5] [1 0 0.5] [0 0 0.5] [2 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8cb817b0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1297.5 61.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786144955
+:isComplete true}}
+:block/updated-at 1707786146238} 
+{:block/created-at 1707786146238
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 81
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[8 0 0.5] [7 0 0.5] [6 2 0.5] [5 5 0.5] [4 8 0.5] [2 12 0.5] [1 16 0.5] [0 21 0.5] [0 27 0.5] [0 32 0.5] [0 37 0.5] [0 40 0.5] [1 31 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8ca21eb0-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1309.5 55.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786144809
+:isComplete true}}
+:block/updated-at 1707786146238} 
+{:block/created-at 1707786149325
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 85
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[12 0 0.5] [11 0 0.5] [9 1 0.5] [8 2 0.5] [8 4 0.5] [7 7 0.5] [8 8 0.5] [9 10 0.5] [10 11 0.5] [12 12 0.5] [13 14 0.5] [14 15 0.5] [13 16 0.5] [13 17 0.5] [11 18 0.5] [9 19 0.5] [6 20 0.5] [4 22 0.5] [0 24 0.5] [4 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8d427d60-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1374.5 56.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786145867
+:isComplete true}}
+:block/updated-at 1707786149325} 
+{:block/created-at 1707786149325
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 83
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[1 0 0.5] [1 1 0.5] [0 4 0.5] [0 7 0.5] [0 10 0.5] [0 14 0.5] [0 17 0.5] [1 21 0.5] [1 25 0.5] [2 29 0.5] [4 32 0.5] [8 37 0.5] [10 38 0.5] [7 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8cefa270-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1348.5 35.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786145318
+:isComplete true}}
+:block/updated-at 1707786149325} 
+{:block/created-at 1707786149325
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 84
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[6 0 0.5] [5 0 0.5] [4 1 0.5] [2 2 0.5] [2 4 0.5] [1 6 0.5] [0 8 0.5] [0 9 0.5] [1 9 0.5] [2 8 0.5] [3 7 0.5] [4 6 0.5] [5 5 0.5] [6 4 0.5] [6 3 0.5] [6 4 0.5] [6 6 0.5] [7 8 0.5] [8 11 0.5] [8 13 0.5] [10 15 0.5] [11 16 0.5] [10 12 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8d115b40-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1364.5 57.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786145548
+:isComplete true}}
+:block/updated-at 1707786149325} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 88
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 1 0.5] [0 2 0.5] [1 4 0.5] [1 7 0.5] [1 10 0.5] [2 12 0.5] [2 13 0.5] [2 11 0.5] [3 9 0.5] [4 6 0.5] [4 4 0.5] [5 2 0.5] [6 1 0.5] [7 1 0.5] [7 0 0.5] [8 0 0.5] [10 1 0.5] [11 2 0.5] [13 4 0.5] [14 6 0.5] [15 9 0.5] [16 11 0.5] [16 13 0.5] [16 15 0.5] [17 15 0.5] [15 12 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8e319850-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1319.5 119.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786147440
+:isComplete true}}
+:block/updated-at 1707786149325} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 86
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [1 2 0.5] [2 3 0.5] [2 5 0.5] [2 7 0.5] [3 9 0.5] [3 10 0.5] [3 12 0.5] [3 13 0.5] [4 13 0.5] [5 11 0.5] [5 9 0.5] [6 7 0.5] [8 5 0.5] [9 3 0.5] [9 2 0.5] [10 2 0.5] [11 2 0.5] [12 4 0.5] [14 7 0.5] [14 8 0.5] [14 9 0.5] [15 8 0.5] [16 6 0.5] [17 5 0.5] [18 3 0.5] [18 2 0.5] [19 1 0.5] [20 1 0.5] [21 1 0.5] [22 2 0.5] [23 2 0.5] [25 3 0.5] [26 5 0.5] [27 6 0.5] [29 7 0.5] [30 9 0.5] [31 10 0.5] [32 10 0.5] [33 10 0.5] [31 9 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8db73830-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1268.5 122.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786146654
+:isComplete true}}
+:block/updated-at 1707786149325} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 92
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 2 0.5] [0 4 0.5] [0 6 0.5] [0 8 0.5] [0 10 0.5] [0 11 0.5] [1 11 0.5] [3 11 0.5] [4 11 0.5] [5 10 0.5] [8 8 0.5] [9 7 0.5] [9 5 0.5] [10 4 0.5] [11 2 0.5] [11 0 0.5] [10 3 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8ece7490-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1359.5 116.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786148459
+:isComplete true}}
+:block/updated-at 1707786149325} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 89
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [1 3 0.5] [1 5 0.5] [1 6 0.5] [1 7 0.5] [1 5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8e5cee10-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1340.5 129.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786147705
+:isComplete true}}
+:block/updated-at 1707786149325} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 87
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[7 2 0.5] [7 1 0.5] [6 1 0.5] [6 0 0.5] [5 1 0.5] [4 2 0.5] [2 3 0.5] [1 6 0.5] [1 7 0.5] [0 10 0.5] [0 11 0.5] [1 12 0.5] [2 12 0.5] [4 12 0.5] [5 11 0.5] [9 7 0.5] [10 6 0.5] [10 4 0.5] [11 4 0.5] [10 4 0.5] [11 5 0.5] [11 8 0.5] [12 11 0.5] [13 15 0.5] [14 16 0.5] [15 16 0.5] [14 14 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8dfe0530-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1299.5 119.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786147103
+:isComplete true}}
+:block/updated-at 1707786149325} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 91
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[10 2 0.5] [9 3 0.5] [9 4 0.5] [9 6 0.5] [8 8 0.5] [8 11 0.5] [7 13 0.5] [8 15 0.5] [8 16 0.5] [9 16 0.5] [11 16 0.5] [13 15 0.5] [15 13 0.5] [16 11 0.5] [17 8 0.5] [17 6 0.5] [17 5 0.5] [17 3 0.5] [16 1 0.5] [15 1 0.5] [15 0 0.5] [14 0 0.5] [12 0 0.5] [10 2 0.5] [8 4 0.5] [7 7 0.5] [5 10 0.5] [4 14 0.5] [3 18 0.5] [2 23 0.5] [1 28 0.5] [1 32 0.5] [0 37 0.5] [0 39 0.5] [0 42 0.5] [0 43 0.5] [0 44 0.5] [1 44 0.5] [3 44 0.5] [2 40 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8e842520-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1340.5 114.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786147995
+:isComplete true}}
+:block/updated-at 1707786149325} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 90
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 1 0.5] [1 1 0.5] [0 0 0.5] [1 1 0.5] [1 2 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8e707610-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1337.5 115.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786147831
+:isComplete true}}
+:block/updated-at 1707786149325} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 93
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[1 0 0.5] [1 1 0.5] [1 3 0.5] [1 7 0.5] [1 11 0.5] [1 16 0.5] [0 20 0.5] [0 25 0.5] [0 31 0.5] [0 35 0.5] [0 39 0.5] [1 42 0.5] [2 45 0.5] [1 37 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8ef1db10-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1376.5 89.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786148689
+:isComplete true}}
+:block/updated-at 1707786149325} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 94
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[7 0 0.5] [6 0 0.5] [5 0 0.5] [5 1 0.5] [3 2 0.5] [2 3 0.5] [1 5 0.5] [1 6 0.5] [0 8 0.5] [0 9 0.5] [1 8 0.5] [3 7 0.5] [4 5 0.5] [5 4 0.5] [6 4 0.5] [6 5 0.5] [7 6 0.5] [8 9 0.5] [9 12 0.5] [10 14 0.5] [11 14 0.5] [9 12 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8f154190-ca0b-11ee-b3af-679a27807609"
+:noFill true
+:point [1381.5 121.5]
+:parentId "65cabf1e-028a-4555-83df-dcadfa29f462"
+:nonce 1707786148928
+:isComplete true}}
+:block/updated-at 1707786149325})
+:pages (
+{:block/uuid #uuid "65cabf1e-028a-4555-83df-dcadfa29f462"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "65cabf1e-028a-4555-83df-dcadfa29f462"
+:name "65cabf1e-028a-4555-83df-dcadfa29f462"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("43683d60-ca0b-11ee-b3af-679a27807609" "46382640-ca0b-11ee-b3af-679a27807609" "47650d80-ca0b-11ee-b3af-679a27807609" "489d6670-ca0b-11ee-b3af-679a27807609" "49b7d720-ca0b-11ee-b3af-679a27807609" "49f35980-ca0b-11ee-b3af-679a27807609" "4a83b2a0-ca0b-11ee-b3af-679a27807609" "4fb9ed20-ca0b-11ee-b3af-679a27807609" "4ffebe50-ca0b-11ee-b3af-679a27807609" "504b30a0-ca0b-11ee-b3af-679a27807609" "50e8f740-ca0b-11ee-b3af-679a27807609" "512033e0-ca0b-11ee-b3af-679a27807609" "51515600-ca0b-11ee-b3af-679a27807609" "51a98820-ca0b-11ee-b3af-679a27807609" "51c99340-ca0b-11ee-b3af-679a27807609" "51df3e20-ca0b-11ee-b3af-679a27807609" "52afad80-ca0b-11ee-b3af-679a27807609" "52ffa240-ca0b-11ee-b3af-679a27807609" "53cc8f30-ca0b-11ee-b3af-679a27807609" "5554dce0-ca0b-11ee-b3af-679a27807609" "5592f750-ca0b-11ee-b3af-679a27807609" "55c61540-ca0b-11ee-b3af-679a27807609" "564f9090-ca0b-11ee-b3af-679a27807609" "56a13300-ca0b-11ee-b3af-679a27807609" "56f19cf0-ca0b-11ee-b3af-679a27807609" "5a80de30-ca0b-11ee-b3af-679a27807609" "5aab4990-ca0b-11ee-b3af-679a27807609" "5ad280a0-ca0b-11ee-b3af-679a27807609" "5afa53f0-ca0b-11ee-b3af-679a27807609" "5b1de180-ca0b-11ee-b3af-679a27807609" "5bb9d360-ca0b-11ee-b3af-679a27807609" "5bfea490-ca0b-11ee-b3af-679a27807609" "5cbe9930-ca0b-11ee-b3af-679a27807609" "5cc9e3d0-ca0b-11ee-b3af-679a27807609" "65444cd0-ca0b-11ee-b3af-679a27807609" "65b696a0-ca0b-11ee-b3af-679a27807609" "65ee6f80-ca0b-11ee-b3af-679a27807609" "6627cf00-ca0b-11ee-b3af-679a27807609" "6e991040-ca0b-11ee-b3af-679a27807609" "6eea8ba0-ca0b-11ee-b3af-679a27807609" "71b01440-ca0b-11ee-b3af-679a27807609" "728a95c0-ca0b-11ee-b3af-679a27807609" "72ec16b0-ca0b-11ee-b3af-679a27807609" "73379ea0-ca0b-11ee-b3af-679a27807609" "751167b0-ca0b-11ee-b3af-679a27807609" "755611d0-ca0b-11ee-b3af-679a27807609" "7709dc50-ca0b-11ee-b3af-679a27807609" "7748ba10-ca0b-11ee-b3af-679a27807609" "776fca10-ca0b-11ee-b3af-679a27807609" "77968bf0-ca0b-11ee-b3af-679a27807609" "77ca1f10-ca0b-11ee-b3af-679a27807609" "77e23af0-ca0b-11ee-b3af-679a27807609" "7811fd80-ca0b-11ee-b3af-679a27807609" "783f4f10-ca0b-11ee-b3af-679a27807609" "787245f0-ca0b-11ee-b3af-679a27807609" "7c6292f0-ca0b-11ee-b3af-679a27807609" "7dfc6cd0-ca0b-11ee-b3af-679a27807609" "7eb44b20-ca0b-11ee-b3af-679a27807609" "7ee0d960-ca0b-11ee-b3af-679a27807609" "7f146c80-ca0b-11ee-b3af-679a27807609" "7f38e470-ca0b-11ee-b3af-679a27807609" "7f6105e0-ca0b-11ee-b3af-679a27807609" "8196d1a0-ca0b-11ee-b3af-679a27807609" "81dc3f10-ca0b-11ee-b3af-679a27807609" "82192100-ca0b-11ee-b3af-679a27807609" "82eb8c30-ca0b-11ee-b3af-679a27807609" "832cdaf0-ca0b-11ee-b3af-679a27807609" "83b60820-ca0b-11ee-b3af-679a27807609" "894d9c80-ca0b-11ee-b3af-679a27807609" "898bb6f0-ca0b-11ee-b3af-679a27807609" "89bd4e40-ca0b-11ee-b3af-679a27807609" "89e60bf0-ca0b-11ee-b3af-679a27807609" "8a094b60-ca0b-11ee-b3af-679a27807609" "8a5bb120-ca0b-11ee-b3af-679a27807609" "8a7d1bd0-ca0b-11ee-b3af-679a27807609" "8aae3df0-ca0b-11ee-b3af-679a27807609" "8b053790-ca0b-11ee-b3af-679a27807609" "8b7a1970-ca0b-11ee-b3af-679a27807609" "8baf8150-ca0b-11ee-b3af-679a27807609" "8be44cf0-ca0b-11ee-b3af-679a27807609" "8c4b2510-ca0b-11ee-b3af-679a27807609" "8ca21eb0-ca0b-11ee-b3af-679a27807609" "8cb817b0-ca0b-11ee-b3af-679a27807609" "8cefa270-ca0b-11ee-b3af-679a27807609" "8d115b40-ca0b-11ee-b3af-679a27807609" "8d427d60-ca0b-11ee-b3af-679a27807609" "8db73830-ca0b-11ee-b3af-679a27807609" "8dfe0530-ca0b-11ee-b3af-679a27807609" "8e319850-ca0b-11ee-b3af-679a27807609" "8e5cee10-ca0b-11ee-b3af-679a27807609" "8e707610-ca0b-11ee-b3af-679a27807609" "8e842520-ca0b-11ee-b3af-679a27807609" "8ece7490-ca0b-11ee-b3af-679a27807609" "8ef1db10-ca0b-11ee-b3af-679a27807609" "8f154190-ca0b-11ee-b3af-679a27807609")}}
+:block/updated-at 1707786149324
+:block/created-at 1707786014156
+:block/type "whiteboard"
+:block/name "docker website diagram"
+:block/original-name "Docker Website Diagram"})}
