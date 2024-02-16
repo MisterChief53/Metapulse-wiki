@@ -9,6 +9,7 @@ public:: true
 - ## Architecture
 	- ![arquitecture-metapulse.jpg](../assets/arquitecture-metapulse_1707323665756_0.jpg)
 	- ### Web Server
+	  id:: 65cf7153-ee27-4c68-b221-b769601f34a4
 	- ### World Server
 		- The server that takes care of the World's multiplayer instance and the [[Web View]].
 	- ### Accounts Server

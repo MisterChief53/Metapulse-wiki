@@ -13,3 +13,10 @@ public:: true
 	- Clone the [development environment](https://github.com/MisterChief53/Metapulse-dev-env).
 	- Download the current CEF binary here: https://drive.proton.me/urls/36ZV7R6SEW#cj64uSQ4UvFq
 	- Extract the contents to the "WebView" folder **except** for `tests/cefsimple`, since that is the WebView code.
+	- **Before** making any changes, it is advised that you run the `checkout_master.py` script so that all submodules are checked out at their master branches, so as to treat them as conventional git repos, independent from the other modules!
+	- Now, if you want to work on a specific repo, the instructions are:
+		- [[WebServer]]
+		- [[Accounts Server]]
+		- [[Web View]]
+		- [[Inference Server]]
+	-

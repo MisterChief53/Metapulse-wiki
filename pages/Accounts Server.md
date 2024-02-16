@@ -1,6 +1,11 @@
 - https://spring.io/projects/spring-boot#overview
 - This tutorial might help with getting started with nextjs + spring boot
 	- {{video https://www.youtube.com/watch?v=E8gaRFMXS9Y}}
+- ## Access The Accounts Server Development Environment
+	- Open IntelliJ IDE on the Accounts Server folder.
+	  id:: 65cf733c-dab5-4209-97c0-f77ef430c473
+	- Configure a run configuration that uses the `docker-compose.yml` file.
+	- Now, if you want to run it, just execute that run configuration and it will execute the code.
 - ## Dependencies
 	- Since we are building a docker container that will use spring and deal with PostgreSQL, we will probably use the following Spring Dependencies:
 		- Spring Web

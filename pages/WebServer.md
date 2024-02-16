@@ -6,4 +6,8 @@
 	- Install the `Dev Containers` extension for VSCode
 	- Press F1 and choose `Open Folder in Container`
 	- Choose the Website folder.
-	- Now you have access to a terminal inside the docker folder!
+	- After the container is initialized, git it a few minutes for it to pull the dependencies.
+		- If the dependencies do not appear after a while, don't worry, you can install them as usual later, by running `npm install` in the folder.
+	- Now you can create a new VSCode terminal, and it will be initialized inside the folder and the container!
+- ## Deploying
+	- Execute the `docker-compose.yml`, and after the website compiles, it will be on `localhost:8080`.
