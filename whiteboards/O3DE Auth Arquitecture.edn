@@ -1,0 +1,417 @@
+{:blocks (
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [368 80]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "O3DE Core Comunication"
+:id "bb087750-d0e0-11ee-8bfe-c7a55203b2e2"
+:fontWeight 400
+:noFill false
+:point [376 168]
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537412749
+:italic false}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [368 80]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "cURL Comunication with API"
+:id "c3ec9ea0-d0e0-11ee-8bfe-c7a55203b2e2"
+:fontWeight 400
+:noFill false
+:point [376 440]
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537427652
+:italic false}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [368 144]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Logic (getters for the token, etc)"
+:id "10a06470-d0e1-11ee-8bfe-c7a55203b2e2"
+:fontWeight 400
+:noFill false
+:point [376 280]
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537556257
+:italic false}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "gray"
+:rotation 0
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill "gray"
+:type "box"
+:size [712 520]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "46e5d330-d0e1-11ee-8bfe-c7a55203b2e2"
+:fontWeight 400
+:noFill false
+:point [200 80]
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537647296
+:italic false}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [116 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4f37cca0-d0e1-11ee-8bfe-c7a55203b2e2"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [496 96]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537661202
+:italic false
+:text "Auth Client"}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [101 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "86630780-d0e1-11ee-8bfe-c7a55203b2e2"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [968 -16]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537753711
+:italic false
+:text "get token"}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [116 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "af851ea0-d0e1-11ee-8bfe-c7a55203b2e2"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [704 -104]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537822619
+:italic false
+:text "send token"}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [368 80]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "cURL Comunication with API"
+:id "bd7bcbd2-d0e1-11ee-8bfe-c7a55203b2e2"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1216 -264]
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537428097
+:italic false}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [368 80]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "O3DE Core Comunication"
+:id "bd7bcbd1-d0e1-11ee-8bfe-c7a55203b2e2"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1216 -536]
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537413194
+:italic false}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [210 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bd7bcbd4-d0e1-11ee-8bfe-c7a55203b2e2"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [1288 -600]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537661763
+:italic false
+:text "Metapulse User Gem"}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [368 144]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Logic (get n items, etc)"
+:id "bd7bcbd3-d0e1-11ee-8bfe-c7a55203b2e2"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1216 -424]
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537556744
+:italic false}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [712 520]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "bd7bcbd0-d0e1-11ee-8bfe-c7a55203b2e2"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1040 -624]
+:fontSize 20
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537647745
+:italic false}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e4700672-d0e1-11ee-8bfe-c7a55203b2e2"
+:fontWeight 400
+:noFill true
+:point [776.28 -224]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 303]
+:bindingId "e4700670-d0e1-11ee-8bfe-c7a55203b2e2"}
+:end 
+{:id "end"
+:canBind true
+:point [255.72 0]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537911562
+:italic false}}
+:block/updated-at 1708537926447} 
+{:block/created-at 1708537926447
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e6554132-d0e1-11ee-8bfe-c7a55203b2e2"
+:fontWeight 400
+:noFill true
+:point [916 -103]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [261.36 0]
+:bindingId "e6554130-d0e1-11ee-8bfe-c7a55203b2e2"}
+:end 
+{:id "end"
+:canBind true
+:point [0 311.99]
+:bindingId "e6554131-d0e1-11ee-8bfe-c7a55203b2e2"}}
+:decorations 
+{:end "arrow"}
+:parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:nonce 1708537914802
+:italic false}}
+:block/updated-at 1708537926447})
+:pages (
+{:block/uuid #uuid "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "65d6354b-7b16-4db9-914a-85c6869eeb00"
+:name "O3DE Auth Arquitecture"
+:ls-type :whiteboard-page
+:bindings 
+{}
+:nonce 1
+:assets []}}
+:block/updated-at 1708537163385
+:block/created-at 1708537163385
+:block/type "whiteboard"
+:block/name "o3de auth arquitecture"
+:block/original-name "O3DE Auth Arquitecture"})}
