@@ -397,19 +397,21 @@
 :parentId "65d6354b-7b16-4db9-914a-85c6869eeb00"
 :nonce 1708537914802
 :italic false}}
-:block/updated-at 1708537926447})
+:block/updated-at 1708537926447} 
+{:block/content "public:: true"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65d6354b-7b16-4db9-914a-85c6869eeb00"}
+:block/parent 
+{:block/uuid #uuid "65d6354b-7b16-4db9-914a-85c6869eeb00"}
+:block/properties 
+{:public true}
+:block/uuid #uuid "d8f34fd5-e17d-40f8-95aa-9c996740cf99"})
 :pages (
 {:block/uuid #uuid "65d6354b-7b16-4db9-914a-85c6869eeb00"
 :block/properties 
-{:ls-type :whiteboard-page
-:logseq.tldraw.page 
-{:id "65d6354b-7b16-4db9-914a-85c6869eeb00"
-:name "O3DE Auth Arquitecture"
-:ls-type :whiteboard-page
-:bindings 
-{}
-:nonce 1
-:assets []}}
+{:public true}
+:block/journal? false
 :block/updated-at 1708537163385
 :block/created-at 1708537163385
 :block/type "whiteboard"
