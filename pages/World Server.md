@@ -20,3 +20,7 @@ public:: true
 	- After this, you should be able to go to `World/build/windows` and open the solution there, where you will be able to choose a build configuration suited for your needs.
 	- Once built, you can access the editor by doing `.\build\windows\bin\profile\Editor.exe --project-path . -rhi=vulkan`.
 		- We use Vulkan to ensure compatibility with some older graphics cards.
+- ## Adding Third Party Libraries
+	- The third party libraries available were added as submodules using CMake and o3de's packaging system (which is needed).
+	- The system used roughly follows what was done by [cesium-o3de](https://github.com/CesiumGS/cesium-o3de/tree/main)
+	- It is really important that each library has their own SHA256 and tar files, like what is outlined in the o3de documentation.
