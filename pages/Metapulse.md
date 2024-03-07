@@ -7,7 +7,7 @@ public:: true
 - All of its dependencies (except CUDA) are open source
 - [[Development Environment Setup]]
 - ## Architecture
-	- ![arquitecture-metapulse.jpg](../assets/arquitecture-metapulse_1707323665756_0.jpg)
+	- ![arquitecture-metapulse.jpg](../assets/arquitecture-metapulse_1707323665756_0.jpg){:height 524, :width 748}
 	  id:: 65cf7153-0859-4d70-92da-58d29293ff58
 	- ### Web Server
 	  id:: 65cf7153-ee27-4c68-b221-b769601f34a4

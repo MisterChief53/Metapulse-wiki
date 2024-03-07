@@ -24,3 +24,5 @@ public:: true
 	- The third party libraries available were added as submodules using CMake and o3de's packaging system (which is needed).
 	- The system used roughly follows what was done by [cesium-o3de](https://github.com/CesiumGS/cesium-o3de/tree/main)
 	- It is really important that each library has their own SHA256 and tar files, like what is outlined in the o3de documentation.
+- ## Executing the Client
+	- So, to execute a close representation of what the world would look like (you must remember that keyboard input is disabled otherwise), you can use: `.\build\windows\bin\profile\Metapulse-world.GameLauncher.exe -LoadLevel "E:\Metapulse-dev-env\World\Cache\pc\levels\world1\world1.spawnable" -rhi=vulkan`
