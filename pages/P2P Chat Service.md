@@ -1,0 +1,4 @@
+- For this, we only need Clients, since in the distributed architecture of Veilid, that is all we need.
+- ## Implementation
+	- The plan is to implement a C++ server and a Veilid node in Rust, both connected to each other by the same port using zeromq, so that they can communicate with each other easily.
+	- This way, we avoid deviating into unknown terrtory on veilid by not using Rust, and we avoid dealing with language differences since we just send packets.
