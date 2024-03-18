@@ -12,3 +12,70 @@
 		- Spring Data JPA
 		- Spring Security
 		- PostgreSQL Driver
+- ## Classes and endpoints
+	- ### Entities
+		- #### User
+			- This class creates an entity in the data base called User and its getters and setters, this table contains this fields:
+				- id (Integer): This field is an Integer that identifies the user, it is created automatically.
+				- name (String): This field is the username of the user.
+				- password (String): This field contains the password for the user, this password is encrypted when the user register into the system.
+				- money (Double): This field contains the total money of the user.
+		- #### Item
+			- This class creates an entity in the data base called Item and its getters and setters, this table contains this fields:
+				- id (Integer): This field is an Integer that identifies the item, it is created automatically.
+				- name (String): This field is the name of the item, its a String.
+				- description (String): This field contains a short description about what the item does.
+				- code (String): This field contains the path of the file that contains the code of the item.
+				- worldIP (String): This field contains the IP of the world where the item is executing its code.
+				- username (String): This field contains the username of the user owner of the item.
+				- imagePath (String): This field contains the path of the image used to show the item in the web page or in the inventory inside metapulse.
+		- #### ItemForSale
+			- This class creates an entity in the data base called ItemForSale and its getters and setters, this table contains this fields:
+				- id (Long): This field is an Long that identifies the item for sale, it is created automatically.
+				- description (String): This field contains a short description made by the user owner to sell the item.
+				- price (double): This field its the price at which the item will be sold.
+				- item (Item): This field contains the item that is going to be sold.
+	- ### Repositories
+		- The repositories in the API are to extend CRUD methods from the class CrudRepository to the entities class, the account server contains these three repositories:
+			- UserRepository
+			- ItemRepository
+			- ItemForSaleRepository
+	- ### Controllers
+		- The controllers contains the endpoints of the API, the account server contains four controllers:
+			- MainController: This controller primarily consists of helpful endpoints for developers to directly modify some data that cannot be altered through official endpoints. The endpoints located in this controller are:
+				- /demo/add
+					- Description: This endpoint is used to register an user, not recommended to use because there is a better endpoint in the AuthenticationController.
+					- Method: Post
+					- Parameters:
+						- name (String): Username of the user.
+						- password (String): Password of the user.
+					- Response: If the parameters are correct this endpoint returns a string saying "Saved the user! <3".
+				- /demo/all
+					- Description: This endpoint is used to get all users in the database.
+					- Method: Get
+					- Parameters: None
+					- Response: Returns all users in the database.
+				- /demo/setMoney
+					- Description: This endpoint is used to modify all users money manually.
+					- Method: Put
+					- Parameters: None
+					- Response: Returns a string saying "All users have been updated with money 500".
+				- /demo/addItem
+					- Description: This endpoint is used to add an Item into the database.
+					- Method: Post
+					- Parameters:
+						- name (String): Name of the item.
+						- description (String): Description of the item.
+						- code (String): Path of the code file of the item.
+						- ip (String): IP of the world that is executing the code.
+						- username (String): User that is going to own the item (need to be already registered)
+						- imagePath (String): URL of the image of the item.
+					- Response: If the parameters are correct this endpoint returns a string saying "Saved the item!", in case that the user owner isn't find the it returns "The user owner of the item doesn't exist", if there's another error then it returns "Unable to add the item".
+				- /demo/allItems
+					- Description: This endpoint is used to get all the items in the database.
+					- Method: Get
+					- Parameters: None
+					- Response: Returns all items in the database.
+			- AuthenticationController
+			- ItemController
+			- SalesController

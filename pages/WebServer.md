@@ -10,4 +10,5 @@
 		- If the dependencies do not appear after a while, don't worry, you can install them as usual later, by running `npm install` in the folder.
 	- Now you can create a new VSCode terminal, and it will be initialized inside the folder and the container!
 - ## Deploying
-	- Execute the `docker-compose.yml`, and after the website compiles, it will be on `localhost:8080`.
+	- Execute the `docker-compose.yml`, and after the website compiles, it will be on `localhost:3000`.
+-
