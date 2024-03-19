@@ -76,6 +76,26 @@
 					- Method: Get
 					- Parameters: None
 					- Response: Returns all items in the database.
-			- AuthenticationController
+			- AuthenticationController: This controller primarily consists of endpoints used to create and authenticate a user. The endpoints located in this controller are:
+				- /auth/register
+					- Description: This endpoint is used to register a user in the database.
+					- Method: Post
+					- Parameters:
+						- name (String): Username of the user.
+						- password (String): Password of the user.
+					- Response: If thereis no problem registering the user then this endpoint returns a string saying "User registered successfully", otherwise it would say "Unable to register user".
+				- /auth/login
+					- Description: This endpoint is used to login users with their credentials.
+					- Method: Post
+					- Parameters:
+						- name (String): Username of the user.
+						- password (String): Password of the user.
+					- Response: If the credentials are correct then this endpoint returns a string with an autehntication token, otherwise it would return a string saying "Invalid username or password".
+				- /auth/secure
+					- Description: This is test endpoint to prove the functionality of the token obtained with the login endpoint.
+					- Method: Get
+					- Parameters:
+						- token (String) [Header]: Authentication token.
+					- Response: If the token is correct then this endpoint would return a string with the username of the token owner, otherwise it would return a string saying "Invalid or expired token".
 			- ItemController
 			- SalesController
