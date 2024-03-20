@@ -92,10 +92,16 @@
 						- password (String): Password of the user.
 					- Response: If the credentials are correct then this endpoint returns a string with an autehntication token, otherwise it would return a string saying "Invalid username or password".
 				- /auth/secure
-					- Description: This is test endpoint to prove the functionality of the token obtained with the login endpoint.
+					- Description: This is a test endpoint to prove the functionality of the token obtained with the login endpoint.
 					- Method: Get
 					- Parameters:
 						- token (String) [Header]: Authentication token.
 					- Response: If the token is correct then this endpoint would return a string with the username of the token owner, otherwise it would return a string saying "Invalid or expired token".
-			- ItemController
+			- ItemController: This controller contains an endpoint used to get all the items of a user. The endpoint located in this controller is:
+				- /items/getItemUser
+					- Description: This endpoint is used to get the items of a user.
+					- Method: Post
+					- Parameters:
+						- name (String): Username of the user.
+					- Response: If the username is incorrect then this endpoint return a string saying "This user doesn't exists", if the username is correct then it returns all the items information, in case theres a problem it would return a string saying "Unable to find items".
 			- SalesController
