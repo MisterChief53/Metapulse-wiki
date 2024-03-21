@@ -104,4 +104,31 @@
 					- Parameters:
 						- name (String): Username of the user.
 					- Response: If the username is incorrect then this endpoint return a string saying "This user doesn't exists", if the username is correct then it returns all the items information, in case theres a problem it would return a string saying "Unable to find items".
-			- SalesController
+			- SalesController: This controller primarily consists of endpoints used in the purchase and sale of an item. The endpoints located in this controller are:
+				- /sales/items
+					- Description: This endpoint is used to get all items in sale.
+					- Method: Get
+					- Parameters: None
+					- Response: This endpoint returns the information of all the items for sale.
+				- /sales/items/{id}
+					- Description: This endpoint is used to get an item through its id.
+					- Method: Get
+					- Parameters:
+						- id (int) [Path variable "id"]: Id of the item is going to be displayed.
+					- Response: This endpoint returns the information of the current item, if the id is incorrect then it would return a string saying "Item not found".
+				- /sales/items
+					- Description: This endpoint is used to put an item for sale.
+					- Method: Post
+					- Parameters:
+						- item_id: Id of the item in sale.
+						- price: Cost of the item.
+						- description: Description of the item.
+						- token (String) [Header]: Authentication token.
+					- Response: This endpoint returns a string saying "Item added for sale successfully" if the process was done correctly, otherwise, if the token is incorrect it would say "Invalid or expired token", if the username doesn't match with the username of the item owner it would say "You are not the owner of the item", if there's another problem in the process it would say "Failed to add item for sale".
+				- /sales/buy/{id}
+					- Description: This endpoint is used to make the sale of an item.
+					- Method: Post
+					- Parameters:
+						- id (int) [Path variable "id"]: Id of the item is going to be displayed.
+						- token (String) [Header]: Authentication token.
+					- Response: This endpoint returns a string saying "Item purchased successfully" if the process was done correctly, otherwise, if the token is incorrect it would say "Invalid or expired token", if the item is not found then it would say "Item not found or already sold", if there's another problem in the process it would say "Failed to buy item".
