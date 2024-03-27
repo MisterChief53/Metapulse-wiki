@@ -114,13 +114,19 @@ public:: true
 					- Parameters:
 						- token (String) [Header]: Authentication token.
 					- Response: If the token is correct then this endpoint would return a string with the username of the token owner, otherwise it would return a string saying "Invalid or expired token".
+				- /auth/userInfo
+					- Description: This endpoint is used to get the username and money of a user through its token.
+					- Method: Get
+					- Parameters:
+						- token (String) [Header]: Authentication token.
+					- Response: If the token is correct then this endpoint would return the name and the money of the user, otherwise it would return a string saying "Invalid or expired token".
 			- ItemController: This controller contains an endpoint used to get all the items of a user. The endpoint located in this controller is:
 				- /items/getItemUser
 					- Description: This endpoint is used to get the items of a user.
 					- Method: Post
 					- Parameters:
 						- name (String): Username of the user.
-					- Response: If the username is incorrect then this endpoint return a string saying "This user doesn't exists", if the username is correct then it returns all the items information, in case theres a problem it would return a string saying "Unable to find items".
+					- Response: If the username is incorrect then this endpoint return a string saying "This user doesn't exist", if the username is correct then it returns all the items information, in case theres a problem it would return a string saying "Unable to find items".
 			- SalesController: This controller primarily consists of endpoints used in the purchase and sale of an item. The endpoints located in this controller are:
 				- /sales/items
 					- Description: This endpoint is used to get all items in sale.
