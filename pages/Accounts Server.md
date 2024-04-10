@@ -46,15 +46,16 @@ public:: true
 				- tradableMoneyUser2 (Double): This field contains the money that the user 2 wants to transfer.
 				- acceptedTradeUser1 (Boolean): This field contains a boolean that checks if the user 1 has accepted the trade.
 				- acceptedTradeUser2 (Boolean): This field contains a boolean that checks if the user 2 has accepted the trade.
-		- Message
-			- This entity creates a Message table, along with getters and setters, the atributes in this table are:
-				- id (Integer): Identifies the message, created automatically.
-				- content (String): The content of the message.
-				- username (String): The name of the user that sends the message.
-				- chat (Chat): The chat that owns the message.
-		- Chat
-			- This entity creates the Chat table, the attributes are:
-				- id (Integer): Identifies the chat, generated automatically.
+		- #### Chat
+			- This class creates an entity in the data base called Chat and its getters and setters, this table contains this fields:
+				- id (Integer): This field is an Integer that identifies the chat, it is created automatically.
+		- #### Message
+			- This class creates an entity in the data base called Message and its getters and setters, this table contains this fields:
+				- id (Integer): This field is an Integer that identifies the message, it is created automatically.
+				- content (String): This field contains the text of the message.
+				- username (String): This field contains the username of the user that send the message.
+				- chat (Chat): This field contains the chat to which the message belongs.
+				  >>>>>>> 740a6b843194c6dca30ea4c5f33737dd9975e6eb
 	- ### Repositories
 		- The repositories in the API are to extend CRUD methods from the class CrudRepository to the entities class, the account server contains these three repositories:
 			- UserRepository
