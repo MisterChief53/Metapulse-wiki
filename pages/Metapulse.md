@@ -13,7 +13,7 @@ public:: true
 	  id:: 65cf7153-ee27-4c68-b221-b769601f34a4
 	- ### [[World Server]]
 	- ### Accounts Server
-	- ### Inference Server
+	- ### [[Inference Server]]
 	- ### Clients
 	- ### [[P2P Chat Service]]
 - ## Technical Details
