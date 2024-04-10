@@ -206,3 +206,9 @@ public:: true
 					- tradeId(int): Id of the trade.
 					- userId (int): Id of the user that is trying to execute the trade.
 				- Response: This endpoint returns a string saying "Trade executed successfully" if the process was done correctly and both acceptedTradeUser booleans are true, if both booleans aren't true then the string would say "Both users must accept the trade", if the user is found but its not part of the trade the string would say "The user is not part of the trade" and if theres is an error trying to executing the trade it would say "Unable to execute trade".
+	- Seeders
+		- Currently, there exists only one seeder for the database:
+			- DatabaseSeeder.
+				- This seeder will delete all the previous content of the database, and will create two new users "edson" and "angel", both having the password "12345", as well as three items, Red, Green, and Blue.
+				- For safety, all the content in the "run" method is commented, in order to prevent the unintended deletion of the database if you did any changes.
+				- If you want to use this, you need to delete the comment and run the server, the seed will be automatically planted.
