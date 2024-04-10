@@ -46,15 +46,27 @@ public:: true
 				- tradableMoneyUser2 (Double): This field contains the money that the user 2 wants to transfer.
 				- acceptedTradeUser1 (Boolean): This field contains a boolean that checks if the user 1 has accepted the trade.
 				- acceptedTradeUser2 (Boolean): This field contains a boolean that checks if the user 2 has accepted the trade.
+		- Message
+			- This entity creates a Message table, along with getters and setters, the atributes in this table are:
+				- id (Integer): Identifies the message, created automatically.
+				- content (String): The content of the message.
+				- username (String): The name of the user that sends the message.
+				- chat (Chat): The chat that owns the message.
+		- Chat
+			- This entity creates the Chat table, the attributes are:
+				- id (Integer): Identifies the chat, generated automatically.
 	- ### Repositories
 		- The repositories in the API are to extend CRUD methods from the class CrudRepository to the entities class, the account server contains these three repositories:
 			- UserRepository
 			- ItemRepository
 			- ItemForSaleRepository
 			- TradeRepository
+			- MessageRepository
+			- ChatRepository
 	- ### Controllers
 		- The controllers contains the endpoints of the API, the account server contains four controllers:
 			- MainController: This controller primarily consists of helpful endpoints for developers to directly modify some data that cannot be altered through official endpoints. The endpoints located in this controller are:
+			  collapsed:: true
 				- /demo/add
 					- Description: This endpoint is used to register an user, not recommended to use because there is a better endpoint in the AuthenticationController.
 					- Method: Post
@@ -94,6 +106,7 @@ public:: true
 					- Parameters: None
 					- Response: Returns all trades in the database.
 			- AuthenticationController: This controller primarily consists of endpoints used to create and authenticate a user. The endpoints located in this controller are:
+			  collapsed:: true
 				- /auth/register
 					- Description: This endpoint is used to register a user in the database.
 					- Method: Post
@@ -121,6 +134,7 @@ public:: true
 						- token (String) [Header]: Authentication token.
 					- Response: If the token is correct then this endpoint would return the name and the money of the user, otherwise it would return a string saying "Invalid or expired token".
 			- ItemController: This controller contains an endpoint used to get all the items of a user. The endpoint located in this controller is:
+			  collapsed:: true
 				- /items/getItemUser
 					- Description: This endpoint is used to get the items of a user.
 					- Method: Post
@@ -128,6 +142,7 @@ public:: true
 						- name (String): Username of the user.
 					- Response: If the username is incorrect then this endpoint return a string saying "This user doesn't exist", if the username is correct then it returns all the items information, in case theres a problem it would return a string saying "Unable to find items".
 			- SalesController: This controller primarily consists of endpoints used in the purchase and sale of an item. The endpoints located in this controller are:
+			  collapsed:: true
 				- /sales/items
 					- Description: This endpoint is used to get all items in sale.
 					- Method: Get
@@ -197,6 +212,27 @@ public:: true
 					- tradeId(int): Id of the trade.
 					- userId (int): Id of the user that is trying to execute the trade.
 				- Response: This endpoint returns a string saying "Trade executed successfully" if the process was done correctly and both acceptedTradeUser booleans are true, if both booleans aren't true then the string would say "Both users must accept the trade", if the user is found but its not part of the trade the string would say "The user is not part of the trade" and if theres is an error trying to executing the trade it would say "Unable to execute trade".
+			- ChatController: This controller consist of the endpoints needed to create, end and get the messages, the endpoints are:
+				- /chat/createChat
+					- Description: The first thing you need to start chatting is to create a chat, this will generate and save in the database a chat
+					- Method: Post
+					- Parameters: This endpoint does not require any parameter.
+					- Respones: The response is going to be the whole chat object, which only consists of the id.
+				- /chat/sendMessage
+					- Description: Creates a message.
+					- Method: Post
+					- Parameters
+						- chatId (Integer): The id of the chat that owns this message.
+						- content (String): The content that is going to be send.
+					- Headers
+						- Authentication (token): The token that confirms that a user is logged.
+					- Response: Saved the Message! if okey, some other bad request responses if the token is invalid or if the chat is not found.
+				- /chat/getMessages
+					- Description: Fetch all the messages from a particular chat.
+					- Method: GET.
+					- Parameters:
+						- chatId (integer): The chat whose messages we want to get.
+					- Response: A List containing all the message objects that belongs to the chat.
 	- Seeders
 		- Currently, there exists only one seeder for the database:
 			- DatabaseSeeder.
