@@ -16,6 +16,7 @@ public:: true
 		- PostgreSQL Driver
 - ## Classes and endpoints
 	- ### Entities
+	  collapsed:: true
 		- #### User
 			- This class creates an entity in the data base called User and its getters and setters, this table contains this fields:
 				- id (Integer): This field is an Integer that identifies the user, it is created automatically.
@@ -57,6 +58,7 @@ public:: true
 				- chat (Chat): This field contains the chat to which the message belongs.
 				  >>>>>>> 740a6b843194c6dca30ea4c5f33737dd9975e6eb
 	- ### Repositories
+	  collapsed:: true
 		- The repositories in the API are to extend CRUD methods from the class CrudRepository to the entities class, the account server contains these three repositories:
 			- UserRepository
 			- ItemRepository
@@ -64,18 +66,17 @@ public:: true
 			- TradeRepository
 			- MessageRepository
 			- ChatRepository
-	- ### Controllers
+	- ### Controllers (API)
 		- The controllers contains the endpoints of the API, the account server contains four controllers:
-			- MainController: This controller primarily consists of helpful endpoints for developers to directly modify some data that cannot be altered through official endpoints. The endpoints located in this controller are:
-			  collapsed:: true
-				- /demo/add
+			- **MainController**: This controller primarily consists of helpful endpoints for developers to directly modify some data that cannot be altered through official endpoints. The endpoints located in this controller are:
+				- `/demo/add`
 					- Description: This endpoint is used to register an user, not recommended to use because there is a better endpoint in the AuthenticationController.
-					- Method: Post
+					- **Method**: Post
 					- Parameters:
 						- name (String): Username of the user.
 						- password (String): Password of the user.
 					- Response: If the parameters are correct this endpoint returns a string saying "Saved the user! <3".
-				- /demo/all
+				- `/demo/all`
 					- Description: This endpoint is used to get all users in the database.
 					- Method: Get
 					- Parameters: None
