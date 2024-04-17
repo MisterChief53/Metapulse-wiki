@@ -235,9 +235,9 @@ public:: true
 					- Parameters:
 						- chatId (integer): The chat whose messages we want to get.
 					- Response: A List containing all the message objects that belongs to the chat.
-	- Seeders
+	- **Seeders**
 		- Currently, there exists only one seeder for the database:
 			- DatabaseSeeder.
 				- This seeder will delete all the previous content of the database, and will create two new users "edson" and "angel", both having the password "12345", as well as three items, Red, Green, and Blue.
 				- For safety, all the content in the "run" method is commented, in order to prevent the unintended deletion of the database if you did any changes.
-				- If you want to use this, you need to delete the comment and run the server, the seed will be automatically planted.
+				- If you want to use this, you need to delete the comment and run the server, the seed will be automatically planted, this means that **the seeder needs to be enabled manually**.
