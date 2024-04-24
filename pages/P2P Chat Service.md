@@ -1,4 +1,8 @@
 - For this, we only need Clients, since in the distributed architecture of Veilid, that is all we need.
 - ## Implementation
-	- The plan is to implement a C++ server and a Veilid node in Rust, both connected to each other by the same port using zeromq, so that they can communicate with each other easily.
-	- This way, we avoid deviating into unknown terrtory on veilid by not using Rust, and we avoid dealing with language differences since we just send packets.
+	- Veilid has an implementation for inter process communication (IPC), so, we communicate to that using C++ directly from a client.
+	- ### Old idea
+		- The plan is to implement a C++ server and a Veilid node in Rust, both connected to each other by the same port using zeromq, so that they can communicate with each other easily.
+		- This way, we avoid deviating into unknown terrtory on veilid by not using Rust, and we avoid dealing with language differences since we just send packets.
+- To start a python-demo compatible node, use `.\target\debug\veilid-server.exe --set-config client_api.network_enabled=true`
+	- This is after you have compiled the server with `cargo build`. For this, you would need a rust compiler.
