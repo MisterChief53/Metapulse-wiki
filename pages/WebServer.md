@@ -12,4 +12,5 @@ public:: true
 	- Now you can create a new VSCode terminal, and it will be initialized inside the folder and the container!
 - ## Deploying
 	- Execute the `docker-compose.yml`, and after the website compiles, it will be on `localhost:3000`.
--
+- ## On the WebView
+	- Currently, the `websiteview` page fetches from `localhost`. You need to use the API's public IP instead of localhost for this to work.

@@ -241,3 +241,5 @@ public:: true
 				- This seeder will delete all the previous content of the database, and will create two new users "edson" and "angel", both having the password "12345", as well as three items, Red, Green, and Blue.
 				- For safety, all the content in the "run" method is commented, in order to prevent the unintended deletion of the database if you did any changes.
 				- If you want to use this, you need to delete the comment and run the server, the seed will be automatically planted, this means that **the seeder needs to be enabled manually**.
+- ## CORS
+	- Currently, you need to add the public ip of the webview client into CORS for item fetching.

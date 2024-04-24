@@ -23,5 +23,5 @@ public:: true
   id:: 65e52d0b-0503-4b0b-9aa9-a88e2f6891de
 	- The WebView utilizes a Docker container that makes use of `xvfb` to setup a virtual x server so that the CEF executes.
 	- To execute correctly, the application is ran by directly invoking the executable as an argument to `xvfb`, which makes it so that when debugging directly with an IDE like CLion, one has to manually attach to the executable's process.
-	- The command to run the application is this: `xvfb-run --server-args="-screen 0 1024x768x24" ./cefclient --off-screen-rendering-enabled --url=https://blank.page/`
-		- One thing to note is that, this command uses a placeholder `--url` argument. To connect to the [[WebServer]] while it is **on the same machine** in another Docker container, you would need to use `http://<your_host_public_ip>:300/`, since CEF expects to connect to a public webpage.
+	- You can go to the source folder and execute `run_webview.sh`.
+		- One thing to note is that, this command uses a placeholder `--url` argument. To connect to the [[WebServer]] while it is **on the same machine** in another Docker container, you would need to use `http://<accounts_server_public_ip>:3000/`, since CEF expects to connect to a public webpage. Same with the curl fetch line.
