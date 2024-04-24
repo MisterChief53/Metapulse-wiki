@@ -1,3 +1,5 @@
+public:: true
+
 - Interesting tutorial: https://www.youtube.com/watch?v=ABbww4CFQSo
 - ## Container Setup Notes
 	- Can we create a project as an empty folder with just a Dockerfile that has the environment defined, and then setup the nextjs project inside that dockerfile using the shell?
@@ -11,4 +13,41 @@
 	- Now you can create a new VSCode terminal, and it will be initialized inside the folder and the container!
 - ## Deploying
 	- Execute the `docker-compose.yml`, and after the website compiles, it will be on `localhost:3000`.
+-
+- ## Functionality of the  WebsiteView
+- Websiteview represents the main page of the site. This is where you can see the display of item for sale that you can purchase. This page is shown before you log in to Metapulse.
+- **It’s composed of the following elements:**
+	- Navbar: a navigation bar component that provides access to different sections of the app
+	- Items: a component that displays a list of available items for sale. The data of each
+	  item are obtained from an API through a HTTP request
+- **Dependencies:**
+	- “Navbar” from “../components/navbar/” component is used to navigation bar
+	- “Items” from “../components/items” component is used to display items for sale.
+	- “useEffect” and “useState” from react: these hooks are used to manage the secondary effects and the state of the elements in react components
+- **Obtaining data from API:**
+	- The “useEffect”  hook makes an HTTP GET request to the path [http://localhost:8080/sales/items](http://localhost:8080/sales/items) to obtain the list of available items for sale. This is accomplished using the fetchItems function, which is asynchronous, and handles the and response.
+	- If the response is successful it is transformed into JSON format, and the local state
+	  “itemSell” is set using “setItemSell”. This ensures that  the data of the items is available for the rendering in Items component.
+	- If the response fails, the error is handled by printing an message to the console and returning and empty array.
+- **Rending of components:**
+	- Once that data of the items “itemSell” is obtained, the “Navbar” component is rendered,
+	  followed by the “Items” component. The data of the obtained  items “itemSell” is oased to the Items component as a prop. The Items component is encouraged for displaying the list of items on the page, on a grid.
+- ## Functionality of the  ItemView
+- The ItemViewPage displays the details of a specific item when selected from the list of available items.
+- **Props:**
+- params: {id: number }: The route parameters containing the ID of the item to be viewed.
+- **It’s composed of the following elements:**
+	- Navbar: A navigation bar component (Navbarr) that provides access to different sections of the application.
+	- Item Details: Displays the details of the selected item, including its name, description, image, and price.
+- **Features:**
+	- Data Fetching: Uses the useEffect hook to make an HTTP GET request to the server, fetching the item details via the route http://localhost:8080/sales/items/:id.
+	- Rendering Components: Renders the details of the item, including its name, description, image, and price.
+- **Dependencies:**
+	- Relies on Navbar component for navigation and utilizes "useState" and "useEffect" hooks from React for state management and side effects.
+- **Funcionality:**
+	- Fetching Item Data: Upon component mount, triggers an HTTP GET request to retrieve item details based on the provided ID.
+	- Rendering Components: Displays item details such as name, description, image, and price.
+	- Purchase Functionality: Provides a "Buy" button allowing users to initiate a purchase. Confirmation dialog prompts user confirmation before completing the transaction.
+	- Error Handling: Handles potential errors during data retrieval, logging error messages to the console if the server request fails.
+-
 -
