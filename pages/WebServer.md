@@ -14,6 +14,15 @@ public:: true
 	- Execute the `docker-compose.yml`, and after the website compiles, it will be on `localhost:3000`.
 - ## On the WebView
 	- Currently, the `websiteview` page fetches from `localhost`. You need to use the API's public IP instead of localhost for this to work.
+- ## Logging in
+- Once the webserver and the accounts server are up and running, the login page will be shown on `localhost:3000`. There are two accounts available to login coming from the database seeder. For more info: ((6605c504-3f1b-4b15-9a71-3ec1f1c87cb0)) .
+- ## Functionality of the Navbar
+- This component is displayed on all the pages as it provides navigation between pages.
+- **It's consists of the folllowing elements:**
+	- Home button: The white button with the text 'Metapulse' redirects to the websiteview when a user clicks on it.
+	- User's money: Contains the amount of coins the user currently has. This money can be used to buy items from the websiteview.
+	- Profile buton: It is represented as a purple circular button and contains the initial letter of the user's name. When the user clicks this button, the sign out option is displayed.
+	- Sell button: This button redirects the user to the sellview page.
 - ## Functionality of the  WebsiteView
 - Websiteview represents the main page of the site. This is where you can see the display of item for sale that you can purchase. This page is shown before you log in to Metapulse.
 - **It’s composed of the following elements:**
@@ -25,6 +34,7 @@ public:: true
 	- “Items” from “../components/items” component is used to display items for sale.
 	- “useEffect” and “useState” from react: these hooks are used to manage the secondary effects and the state of the elements in react components
 - **Obtaining data from API:**
+  id:: 6629bc26-6146-4015-8c30-8451622c32bf
 	- The “useEffect”  hook makes an HTTP GET request to the path [http://localhost:8080/sales/items](http://localhost:8080/sales/items) to obtain the list of available items for sale. This is accomplished using the fetchItems function, which is asynchronous, and handles the and response.
 	- If the response is successful it is transformed into JSON format, and the local state
 	  “itemSell” is set using “setItemSell”. This ensures that  the data of the items is available for the rendering in Items component.
@@ -49,3 +59,26 @@ public:: true
 	- Rendering Components: Displays item details such as name, description, image, and price.
 	- Purchase Functionality: Provides a "Buy" button allowing users to initiate a purchase. Confirmation dialog prompts user confirmation before completing the transaction.
 	- Error Handling: Handles potential errors during data retrieval, logging error messages to the console if the server request fails.
+- ## Functionality of Sellview
+	- Sellview is the place where users can put items for sale.
+	- This page can be accessed through the blue sell button located on the right side of the navbar.
+	- **It's composed of the following elements:**
+		- Inventory: On the left side of the page is the inventory, this is where all of the user's items are displayed.
+		- ItemInfo: On the right side is the ItemInfo component and it shows details such as name, description, price, and image from the selected item when the user clicks an item from the inventory. Price and description can be modified.
+		- ItemList: It's located inside the Inventory component, and iterates over the list of items and shows each item owned by the user as buttons with the name of the item on it.
+		  id:: 6629cbb6-b1a1-4398-a34d-befee248c661
+	- **Dependencies**
+		- “Navbar” from “../components/navbar/” component is used to navigation bar
+		- “Inventory” from “../sellview/inventory” is the main component of the page. It contains both the Inventory and ItemDetails components.
+		- "itemDetails" and "userItems" states are important for the sellview page as this is where the user's item list and the details of the selected item are stored. Both are pass down as props to ItemInfo and ItemList components.
+	- **Obtaining data from the API**
+		- When the page loads, it executes the useEffect, so fetchUserInfo() is called.
+		- fetchUserInfo() makes a HTTP GET request to http://localhost:8080/auth/userInfo so it can retrieve the name and money the user has using the token saved in localstorage.
+		- Right after retrieving the user's name, getUserItems() is called. This function makes a HTTP POST request to http://localhost:8080/items/getItemsUser. The response is all items the user currently owns.
+	- **Functionality**
+		- Fetching user name and user items: Upon component mount, triggers an HTTP GET request to retrieve the username based on the token located on localStorage, then the user's item list is retrieved.
+		- Rendering Inventory: Displays all items the users owns.
+		- Rendering ItemDetails: Displays details of the selected item.
+		- Change price and description: When selecting an item from the inventory, the user can set the price and change the description of the item.
+		- Sell Functionality: A "Sell" button inside the itemDetails component allows users to sell an item. Confirmation dialog prompts user confirmation before completing the transaction.
+		- After selling an item, a modal confirms the sale and redirects the user to the websiteview page.
