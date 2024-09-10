@@ -1,8 +1,13 @@
 public:: true
 
-- https://spring.io/projects/spring-boot#overview
-- This tutorial might help with getting started with nextjs + spring boot
-	- {{video https://www.youtube.com/watch?v=E8gaRFMXS9Y}}
+- ## How to run
+	- Clone the accounts server repo.
+	- Run the `convert-line-endings.ps1` script to remove the line endings for the `gradlew` file:
+		- ```powershell
+		  ./convert-line-endings.ps1 -File gradlew
+		  ```
+	- Run your Docker engine instance and on the root folder do `docker compose up` to run the accounts server.
+	- The **Database Seeder** will run each time you execute the server by default. To change this, check ((662a6627-09bc-43df-bb14-4076e748ac5c))
 - ## Access The Accounts Server Development Environment
 	- Open IntelliJ IDE on the Accounts Server folder.
 	  id:: 65cf733c-dab5-4209-97c0-f77ef430c473
@@ -15,6 +20,7 @@ public:: true
 		- Spring Security
 		- PostgreSQL Driver
 - ## Classes and endpoints
+  collapsed:: true
 	- ### Entities
 	  collapsed:: true
 		- #### User
@@ -236,10 +242,11 @@ public:: true
 						- chatId (integer): The chat whose messages we want to get.
 					- Response: A List containing all the message objects that belongs to the chat.
 	- **Seeders**
+	  id:: 662a6627-09bc-43df-bb14-4076e748ac5c
 		- Currently, there exists only one seeder for the database:
 			- DatabaseSeeder.
 				- This seeder will delete all the previous content of the database, and will create two new users "edson" and "angel", both having the password "12345", as well as three items, Red, Green, and Blue.
 				- For safety, all the content in the "run" method is commented, in order to prevent the unintended deletion of the database if you did any changes.
-				- If you want to use this, you need to delete the comment and run the server, the seed will be automatically planted, this means that **the seeder needs to be enabled manually**.
+				- If you want to use this, you need to delete the comment and run the server, the seed will be automatically planted, this means that **the seeder needs to be disabled manually**.
 - ## CORS
 	- Currently, you need to add the public ip of the webview client into CORS for item fetching.
