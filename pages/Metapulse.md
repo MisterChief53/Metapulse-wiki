@@ -6,6 +6,7 @@ public:: true
 	- Use a shared account for multiple services, using a common API
 - All of its dependencies (except CUDA) are open source.
 - Metapulse is highly modular. Most services run as their own Docker containers, which can be run with minimal configuration. These services are built to replicate many of the common use-cases we see in modern open-source metaverses, but they can be used independently of each other.
+- Demo showcasing main features of the system working as a whole: {{video https://youtu.be/YoDGxb1i7eA}}
 - [[Development Environment Setup]]
 - ## Architecture
 	- ![arquitecture-metapulse.jpg](../assets/arquitecture-metapulse_1707323665756_0.jpg){:height 524, :width 748}
