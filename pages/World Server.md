@@ -1,7 +1,6 @@
 public:: true
 
 - Repository: https://github.com/MisterChief53/Metapulse-world/tree/master
-- The server that takes care of the World's multiplayer instance and the [[Web View]].
 - [[O3DE Auth Arquitecture]]
 - ## Requirements
 	- Visual Studio 2022 with the C++ desktop development workload, with the windows 11 and 10 SDK (latest) installed, along with the C++ Video Game Development workload.

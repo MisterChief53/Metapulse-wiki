@@ -21,7 +21,6 @@ public:: true
 		- Spring Security
 		- PostgreSQL Driver
 - ## Classes and endpoints
-  collapsed:: true
 	- ### Entities
 	  collapsed:: true
 		- #### User
