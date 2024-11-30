@@ -1,5 +1,6 @@
 public:: true
 
+- Repository: https://github.com/MisterChief53/Metapulse-inference-server/tree/master
 - ## Setup Inference Server for Development
 	- install the `DevContainers` extension on VSCode.
 	- Open the folder in a container using the extension.

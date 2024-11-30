@@ -1,5 +1,6 @@
 public:: true
 
+- Repository: https://github.com/MisterChief53/Metapulse-website/tree/master
 - ## Container Setup Notes
 	- Can we create a project as an empty folder with just a Dockerfile that has the environment defined, and then setup the nextjs project inside that dockerfile using the shell?
 		- if we can do that, that means that we can run arbitrary commands inside the container from vscode, as if it was local development!
